@@ -1,0 +1,649 @@
+,race_id,season,race_number,date,site,cars,winner,start,make/model,len,sfc,miles,purse,pole,cautions,caution_laps,speed,lc,href
+0,0,2002,1,2002-02-17,Daytona,43,Ward Burton,19,Dodge,2.5,P,500,10573184.0,185.831,9,38,142.971,20,https://www.racing-reference.info/race-results/2002_Daytona_500/W
+1,1,2002,2,2002-02-24,Rockingham,43,Matt Kenseth,25,Ford,1.017,P,400,2949536.0,156.008,10,57,115.478,17,https://www.racing-reference.info/race-results/2002_Subway_400/W
+2,2,2002,3,2002-03-03,Las Vegas,43,Sterling Marlin,24,Dodge,1.5,P,401,4137735.0,172.85,6,25,136.754,22,https://www.racing-reference.info/race-results/2002_UAW-Daimler_Chrysler_400/W
+3,3,2002,4,2002-03-10,Atlanta,43,Tony Stewart,9,Pontiac,1.54,P,501,2911575.0,191.542,7,37,148.443,34,https://www.racing-reference.info/race-results/2002_MBNA_America_500/W
+4,4,2002,5,2002-03-17,Darlington,43,Sterling Marlin,11,Dodge,1.366,P,400,2834398.0,170.089,5,40,126.07,11,https://www.racing-reference.info/race-results/2002_Carolina_Dodge_Dealers_400/W
+5,5,2002,6,2002-03-24,Bristol,43,Kurt Busch,27,Ford,0.533,P,267,3323726.0,127.216,14,101,82.281,14,https://www.racing-reference.info/race-results/2002_Food_City_500/W
+6,6,2002,7,2002-04-08,Fort Worth,43,Matt Kenseth,31,Ford,1.5,P,501,4676954.0,194.224,7,41,142.453,24,https://www.racing-reference.info/race-results/2002_Samsung_Radio_Shack_500/W
+7,7,2002,8,2002-04-14,Martinsville,43,Bobby Labonte,15,Pontiac,0.526,P,263,2855415.0,94.181,14,104,73.951,19,https://www.racing-reference.info/race-results/2002_Virginia_500/W
+8,8,2002,9,2002-04-21,Talladega,43,"Dale Earnhardt, Jr.",4,Chevrolet,2.66,P,500,3592402.0,186.532,3,19,159.022,26,https://www.racing-reference.info/race-results/2002_Aaron%27s_499/W
+9,9,2002,10,2002-04-28,Fontana,43,Jimmie Johnson,4,Chevrolet,2.0,P,500,3697421.0,187.432,5,24,150.088,20,https://www.racing-reference.info/race-results/2002_NAPA_Auto_Parts_500/W
+10,10,2002,11,2002-05-05,Richmond,43,Tony Stewart,3,Pontiac,0.75,P,300,3018747.0,127.389,14,103,86.824,13,https://www.racing-reference.info/race-results/2002_Pontiac_Excitement_400/W
+11,11,2002,12,2002-05-26,Charlotte,43,Mark Martin,25,Ford,1.5,P,600,4028334.0,186.464,9,48,137.729,21,https://www.racing-reference.info/race-results/2002_Coca-Cola_Racing_Family_600/W
+12,12,2002,13,2002-06-02,Dover,43,Jimmie Johnson,10,Chevrolet,1.0,P,400,3450082.0,154.939,7,40,117.551,14,https://www.racing-reference.info/race-results/2002_MBNA_Platinum_400/W
+13,13,2002,14,2002-06-09,Pocono,43,Dale Jarrett,13,Ford,2.5,P,500,2930864.0,,5,17,143.426,17,https://www.racing-reference.info/race-results/2002_Pocono_500/W
+14,14,2002,15,2002-06-16,Michigan,43,Matt Kenseth,20,Ford,2.0,P,400,3087454.0,189.071,4,16,154.822,15,https://www.racing-reference.info/race-results/2002_Sirius_Satellite_Radio_400/W
+15,15,2002,16,2002-06-23,Sonoma,43,Ricky Rudd,7,Ford,1.99,R,219,3277733.0,93.476,3,9,81.007,10,https://www.racing-reference.info/race-results/2002_Dodge_Save_Mart_350/W
+16,16,2002,17,2002-07-06,Daytona,43,Michael Waltrip,7,Chevrolet,2.5,P,400,3748119.0,185.041,9,39,135.952,6,https://www.racing-reference.info/race-results/2002_Pepsi_400/W
+17,17,2002,18,2002-07-14,Chicago,43,Kevin Harvick,32,Chevrolet,1.5,P,401,3691183.0,183.051,7,35,136.832,19,https://www.racing-reference.info/race-results/2002_Tropicana_400/W
+18,18,2002,19,2002-07-21,Loudon,43,Ward Burton,31,Dodge,1.058,P,317,3222384.0,131.469,14,77,92.342,23,https://www.racing-reference.info/race-results/2002_New_England_300/W
+19,19,2002,20,2002-07-28,Pocono,43,Bill Elliott,1,Dodge,2.5,P,438,2885774.0,170.568,5,29,125.809,17,https://www.racing-reference.info/race-results/2002_Pennsylvania_500/W
+20,20,2002,21,2002-08-04,Indianapolis,43,Bill Elliott,2,Dodge,2.5,P,400,6255321.0,182.96,8,36,125.033,16,https://www.racing-reference.info/race-results/2002_Brickyard_400/W
+21,21,2002,22,2002-08-11,Watkins Glen,43,Tony Stewart,3,Pontiac,2.45,R,221,2822353.0,122.696,7,18,82.208,12,https://www.racing-reference.info/race-results/2002_Sirius_Satellite_Radio_at_the_Glen/W
+22,22,2002,23,2002-08-18,Michigan,43,Dale Jarrett,8,Ford,2.0,P,400,3031889.0,189.668,7,30,140.556,23,https://www.racing-reference.info/race-results/2002_Pepsi_400_Presented_by_Farmer_Jack/W
+23,23,2002,24,2002-08-24,Bristol,43,Jeff Gordon,1,Chevrolet,0.533,P,267,3678797.0,124.034,15,118,77.097,10,https://www.racing-reference.info/race-results/2002_Sharpie_500/W
+24,24,2002,25,2002-09-01,Darlington,43,Jeff Gordon,3,Chevrolet,1.366,P,501,3194462.0,,9,63,118.617,14,https://www.racing-reference.info/race-results/2002_Mountain_Dew_Southern_500/W
+25,25,2002,26,2002-09-07,Richmond,43,Matt Kenseth,25,Ford,0.75,P,300,2975282.0,126.145,10,65,94.787,14,https://www.racing-reference.info/race-results/2002_Chevrolet_Monte_Carlo_400/W
+26,26,2002,27,2002-09-15,Loudon,43,Ryan Newman,1,Ford,1.058,P,219,3222384.0,132.241,3,24,105.081,7,https://www.racing-reference.info/race-results/2002_New_Hampshire_300/W
+27,27,2002,28,2002-09-22,Dover,43,Jimmie Johnson,19,Chevrolet,1.0,P,400,3203610.0,156.822,6,37,120.805,15,https://www.racing-reference.info/race-results/2002_MBNA_All-American_Heroes_400/W
+28,28,2002,29,2002-09-29,Kansas,43,Jeff Gordon,10,Chevrolet,1.5,P,401,3631918.0,177.924,11,52,119.394,13,https://www.racing-reference.info/race-results/2002_Protection_One_400/W
+29,29,2002,30,2002-10-06,Talladega,43,"Dale Earnhardt, Jr.",13,Chevrolet,2.66,P,500,3209957.0,,0,0,183.665,35,https://www.racing-reference.info/race-results/2002_EA_Sports_500/W
+30,30,2002,31,2002-10-13,Charlotte,43,Jamie McMurray,5,Dodge,1.5,P,501,3085520.0,,5,33,141.481,23,https://www.racing-reference.info/race-results/2002_UAW-GM_Quality_500/W
+31,31,2002,32,2002-10-20,Martinsville,43,Kurt Busch,36,Ford,0.526,P,263,2758230.0,92.837,12,65,74.651,12,https://www.racing-reference.info/race-results/2002_Old_Dominion_500/W
+32,32,2002,33,2002-10-27,Atlanta,43,Kurt Busch,8,Ford,1.54,P,382,3727170.0,,5,50,127.519,19,https://www.racing-reference.info/race-results/2002_NAPA_500/W
+33,33,2002,34,2002-11-03,Rockingham,43,"Johnny Benson, Jr.",26,Pontiac,1.017,P,400,2924042.0,155.836,4,22,128.526,22,https://www.racing-reference.info/race-results/2002_Pop_Secret_Microwave_Popcorn_400/W
+34,34,2002,35,2002-11-10,Phoenix,43,Matt Kenseth,28,Ford,1.0,P,312,3648023.0,132.655,4,18,113.857,14,https://www.racing-reference.info/race-results/2002_Checker_Auto_Parts_500_Presented_by_Pennzoil/W
+35,35,2002,36,2002-11-17,Homestead,43,Kurt Busch,1,Ford,1.5,P,401,3349939.0,154.365,6,41,116.462,12,https://www.racing-reference.info/race-results/2002_Ford_400/W
+36,36,2003,1,2003-02-16,Daytona,43,Michael Waltrip,4,Chevrolet,2.5,P,273,11995846.0,186.606,5,23,133.87,11,https://www.racing-reference.info/race-results/2003_Daytona_500/W
+37,37,2003,2,2003-02-23,Rockingham,43,Dale Jarrett,9,Ford,1.017,P,400,3152468.0,154.683,7,46,117.852,20,https://www.racing-reference.info/race-results/2003_Subway_400/W
+38,38,2003,3,2003-03-02,Las Vegas,43,Matt Kenseth,17,Ford,1.5,P,401,4524963.0,173.016,6,30,132.934,17,https://www.racing-reference.info/race-results/2003_UAW-Daimler_Chrysler_400/W
+39,39,2003,4,2003-03-09,Atlanta,43,Bobby Labonte,4,Chevrolet,1.54,P,501,3281499.0,191.417,7,34,146.048,23,https://www.racing-reference.info/race-results/2003_Bass_Pro_Shops_MBNA_500_%28March%29/W
+40,40,2003,5,2003-03-16,Darlington,43,Ricky Craven,31,Pontiac,1.366,P,400,3087374.0,170.147,7,33,126.214,15,https://www.racing-reference.info/race-results/2003_Carolina_Dodge_Dealers_400/W
+41,41,2003,6,2003-03-23,Bristol,43,Kurt Busch,9,Ford,0.533,P,267,3720193.0,128.709,17,121,76.185,11,https://www.racing-reference.info/race-results/2003_Food_City_500/W
+42,42,2003,7,2003-03-30,Fort Worth,43,Ryan Newman,3,Dodge,1.5,P,501,5019723.0,193.514,10,52,134.517,19,https://www.racing-reference.info/race-results/2003_Samsung_Radio_Shack_500/W
+43,43,2003,8,2003-04-06,Talladega,43,"Dale Earnhardt, Jr.",13,Chevrolet,2.66,P,500,4183236.0,186.489,6,32,144.625,43,https://www.racing-reference.info/race-results/2003_Aaron%27s_499/W
+44,44,2003,9,2003-04-13,Martinsville,43,Jeff Gordon,1,Chevrolet,0.526,P,263,3200586.0,94.307,11,64,75.557,14,https://www.racing-reference.info/race-results/2003_Virginia_500/W
+45,45,2003,10,2003-04-27,Fontana,43,Kurt Busch,16,Ford,2.0,P,500,4235281.0,186.838,8,34,140.111,19,https://www.racing-reference.info/race-results/2003_Auto_Club_500/W
+46,46,2003,11,2003-05-03,Richmond,43,Joe Nemechek,2,Chevrolet,0.75,P,295,3309595.0,126.511,15,91,86.783,20,https://www.racing-reference.info/race-results/2003_Pontiac_Excitement_400/W
+47,47,2003,12,2003-05-25,Charlotte,43,Jimmie Johnson,37,Chevrolet,1.5,P,414,4649640.0,185.312,8,46,126.198,16,https://www.racing-reference.info/race-results/2003_Coca-Cola_600/W
+48,48,2003,13,2003-06-01,Dover,43,Ryan Newman,1,Dodge,1.0,P,400,3830083.0,158.716,9,68,106.896,16,https://www.racing-reference.info/race-results/2003_MBNA_Armed_Forces_Family_400/W
+49,49,2003,14,2003-06-08,Pocono,43,Tony Stewart,4,Chevrolet,2.5,P,500,3245776.0,170.645,5,25,134.892,28,https://www.racing-reference.info/race-results/2003_Pocono_500/W
+50,50,2003,15,2003-06-15,Michigan,43,Kurt Busch,4,Ford,2.0,P,400,3407975.0,190.365,9,41,131.219,22,https://www.racing-reference.info/race-results/2003_Sirius_400/W
+51,51,2003,16,2003-06-22,Sonoma,43,Robby Gordon,2,Chevrolet,1.99,R,219,3621824.0,93.62,6,16,73.821,6,https://www.racing-reference.info/race-results/2003_Dodge_Save_Mart_350/W
+52,52,2003,17,2003-07-05,Daytona,43,Greg Biffle,30,Ford,2.5,P,400,4089419.0,184.752,2,10,166.109,17,https://www.racing-reference.info/race-results/2003_Pepsi_400/W
+53,53,2003,18,2003-07-13,Chicago,43,Ryan Newman,14,Dodge,1.5,P,401,4027502.0,184.786,7,36,134.059,13,https://www.racing-reference.info/race-results/2003_Tropicana_400/W
+54,54,2003,19,2003-07-20,Loudon,43,Jimmie Johnson,6,Chevrolet,1.058,P,317,3540335.0,,12,63,96.924,14,https://www.racing-reference.info/race-results/2003_New_England_300/W
+55,55,2003,20,2003-07-27,Pocono,43,Ryan Newman,1,Dodge,2.5,P,500,3245776.0,170.358,8,36,127.705,18,https://www.racing-reference.info/race-results/2003_Pennsylvania_500/W
+56,56,2003,21,2003-08-03,Indianapolis,43,Kevin Harvick,1,Chevrolet,2.5,P,400,6698237.0,184.343,5,25,134.554,17,https://www.racing-reference.info/race-results/2003_Brickyard_400/W
+57,57,2003,22,2003-08-10,Watkins Glen,43,Robby Gordon,14,Chevrolet,2.45,R,221,3123816.0,124.58,6,14,90.441,8,https://www.racing-reference.info/race-results/2003_Sirius_Satellite_Radio_at_the_Glen/W
+58,58,2003,23,2003-08-17,Michigan,43,Ryan Newman,2,Dodge,2.0,P,400,3405184.0,190.24,8,46,127.31,14,https://www.racing-reference.info/race-results/2003_GFS_Marketplace_400/W
+59,59,2003,24,2003-08-23,Bristol,43,Kurt Busch,5,Ford,0.533,P,267,4103475.0,127.597,20,119,77.421,11,https://www.racing-reference.info/race-results/2003_Sharpie_500/W
+60,60,2003,25,2003-08-31,Darlington,43,Terry Labonte,3,Chevrolet,1.366,P,501,3574324.0,169.048,10,55,120.733,24,https://www.racing-reference.info/race-results/2003_Mountain_Dew_Southern_500/W
+61,61,2003,26,2003-09-06,Richmond,43,Ryan Newman,4,Dodge,0.75,P,300,3325995.0,125.792,14,76,94.945,20,https://www.racing-reference.info/race-results/2003_Chevy_Rock_and_Roll_400/W
+62,62,2003,27,2003-09-14,Loudon,43,Jimmie Johnson,8,Chevrolet,1.058,P,317,3551275.0,133.357,6,38,106.58,20,https://www.racing-reference.info/race-results/2003_Sylvania_300/W
+63,63,2003,28,2003-09-21,Dover,43,Ryan Newman,5,Dodge,1.0,P,400,3570445.0,,7,63,108.802,13,https://www.racing-reference.info/race-results/2003_MBNA_America_400/W
+64,64,2003,29,2003-09-28,Talladega,43,Michael Waltrip,18,Chevrolet,2.66,P,500,3562312.0,189.943,5,23,156.045,41,https://www.racing-reference.info/race-results/2003_EA_Sports_500/W
+65,65,2003,30,2003-10-05,Kansas,43,Ryan Newman,11,Dodge,1.5,P,401,4015302.0,180.373,9,47,121.63,23,https://www.racing-reference.info/race-results/2003_Banquet_400_Presented_by_ConAgra_Foods/W
+66,66,2003,31,2003-10-11,Charlotte,43,Tony Stewart,6,Chevrolet,1.5,P,501,3503369.0,186.657,5,31,142.871,15,https://www.racing-reference.info/race-results/2003_UAW-GM_Quality_500/W
+67,67,2003,32,2003-10-19,Martinsville,43,Jeff Gordon,1,Chevrolet,0.526,P,263,3131566.0,93.65,15,119,67.658,9,https://www.racing-reference.info/race-results/2003_Subway_500/W
+68,68,2003,33,2003-10-27,Atlanta,43,Jeff Gordon,19,Chevrolet,1.54,P,501,4102276.0,194.295,10,63,127.769,28,https://www.racing-reference.info/race-results/2003_Bass_Pro_Shops_MBNA_500_%28October%29/W
+69,69,2003,34,2003-11-02,Phoenix,43,"Dale Earnhardt, Jr.",11,Chevrolet,1.0,P,312,3515336.0,133.675,10,66,93.984,10,https://www.racing-reference.info/race-results/2003_Checker_Auto_Parts_500_Presented_by_Havoline/W
+70,70,2003,35,2003-11-09,Rockingham,43,Bill Elliott,5,Dodge,1.017,P,400,3284855.0,155.577,10,65,111.677,14,https://www.racing-reference.info/race-results/2003_Pop-Secret_Microwave_Popcorn_400/W
+71,71,2003,36,2003-11-16,Homestead,43,Bobby Labonte,2,Chevrolet,1.5,P,401,3674430.0,181.111,10,60,116.868,21,https://www.racing-reference.info/race-results/2003_Ford_400/W
+72,72,2004,1,2004-02-15,Daytona,43,"Dale Earnhardt, Jr.",3,Chevrolet,2.5,P,500,13658808.0,188.387,4,23,156.345,26,https://www.racing-reference.info/race-results/2004_Daytona_500/W
+73,73,2004,2,2004-02-22,Rockingham,43,Matt Kenseth,23,Ford,1.017,P,400,3646146.0,156.475,7,58,112.016,15,https://www.racing-reference.info/race-results/2004_Subway_400/W
+74,74,2004,3,2004-03-07,Las Vegas,43,Matt Kenseth,25,Ford,1.5,P,401,4781933.0,174.904,6,37,128.79,18,https://www.racing-reference.info/race-results/2004_UAW-Daimler_Chrysler_400/W
+75,75,2004,4,2004-03-14,Atlanta,43,"Dale Earnhardt, Jr.",7,Chevrolet,1.54,P,501,3629061.0,193.575,3,17,158.679,16,https://www.racing-reference.info/race-results/2004_Golden_Corral_500/W
+76,76,2004,5,2004-03-21,Darlington,43,Jimmie Johnson,11,Chevrolet,1.366,P,400,3479589.0,171.716,9,58,114.001,22,https://www.racing-reference.info/race-results/2004_Carolina_Dodge_Dealers_400/W
+77,77,2004,6,2004-03-28,Bristol,43,Kurt Busch,13,Ford,0.533,P,267,4108366.0,128.314,11,85,82.607,13,https://www.racing-reference.info/race-results/2004_Food_City_500/W
+78,78,2004,7,2004-04-04,Fort Worth,43,Elliott Sadler,19,Ford,1.5,P,501,5318445.0,193.903,7,45,138.845,24,https://www.racing-reference.info/race-results/2004_Samsung_Radio_Shack_500/W
+79,79,2004,8,2004-04-18,Martinsville,43,Rusty Wallace,17,Dodge,0.526,P,263,3637416.0,93.502,11,106,68.169,10,https://www.racing-reference.info/race-results/2004_Advance_Auto_Parts_500/W
+80,80,2004,9,2004-04-25,Talladega,43,Jeff Gordon,11,Chevrolet,2.66,P,500,4463786.0,191.18,11,55,129.396,54,https://www.racing-reference.info/race-results/2004_Aaron%27s_499/W
+81,81,2004,10,2004-05-02,Fontana,43,Jeff Gordon,16,Chevrolet,2.0,P,500,4516016.0,186.94,6,39,137.268,23,https://www.racing-reference.info/race-results/2004_Auto_Club_500/W
+82,82,2004,11,2004-05-15,Richmond,43,"Dale Earnhardt, Jr.",4,Chevrolet,0.75,P,300,3790776.0,129.983,9,66,98.253,19,https://www.racing-reference.info/race-results/2004_Chevy_American_Revolution_400/W
+83,83,2004,12,2004-05-30,Charlotte,43,Jimmie Johnson,1,Chevrolet,1.5,P,600,4929502.0,187.052,7,37,142.763,16,https://www.racing-reference.info/race-results/2004_Coca-Cola_600/W
+84,84,2004,13,2004-06-06,Dover,43,Mark Martin,7,Ford,1.0,P,400,4286034.0,161.522,11,90,97.042,13,https://www.racing-reference.info/race-results/2004_MBNA_America_400_A_Salute_To_Heroes/W
+85,85,2004,14,2004-06-13,Pocono,43,Jimmie Johnson,5,Chevrolet,2.5,P,500,3644659.0,172.533,11,57,112.129,30,https://www.racing-reference.info/race-results/2004_Pocono_500/W
+86,86,2004,15,2004-06-20,Michigan,43,Ryan Newman,4,Dodge,2.0,P,400,3890103.0,190.865,9,33,139.292,17,https://www.racing-reference.info/race-results/2004_DHL_400/W
+87,87,2004,16,2004-06-27,Sonoma,43,Jeff Gordon,1,Chevrolet,1.99,R,219,4117395.0,94.303,6,13,77.456,9,https://www.racing-reference.info/race-results/2004_Dodge_Save_Mart_350/W
+88,88,2004,17,2004-07-03,Daytona,43,Jeff Gordon,1,Chevrolet,2.5,P,400,4617644.0,188.66,5,25,145.117,21,https://www.racing-reference.info/race-results/2004_Pepsi_400/W
+89,89,2004,18,2004-07-11,Chicago,43,Tony Stewart,10,Chevrolet,1.5,P,401,4513082.0,186.942,9,43,129.507,20,https://www.racing-reference.info/race-results/2004_Tropicana_400_Presented_by_Meijer/W
+90,90,2004,19,2004-07-25,Loudon,43,Kurt Busch,32,Ford,1.058,P,317,3951269.0,132.36,12,62,97.862,4,https://www.racing-reference.info/race-results/2004_Siemens_300/W
+91,91,2004,20,2004-08-01,Pocono,43,Jimmie Johnson,14,Chevrolet,2.5,P,500,3694382.0,171.72,9,35,126.271,16,https://www.racing-reference.info/race-results/2004_Pennsylvania_500/W
+92,92,2004,21,2004-08-08,Indianapolis,43,Jeff Gordon,11,Chevrolet,2.5,P,403,7349649.0,186.293,13,47,115.037,9,https://www.racing-reference.info/race-results/2004_Brickyard_400/W
+93,93,2004,22,2004-08-15,Watkins Glen,43,Tony Stewart,4,Chevrolet,2.45,R,221,3548594.0,,5,11,92.249,13,https://www.racing-reference.info/race-results/2004_Sirius_at_the_Glen/W
+94,94,2004,23,2004-08-22,Michigan,43,Greg Biffle,24,Ford,2.0,P,400,3806197.0,,9,33,139.063,25,https://www.racing-reference.info/race-results/2004_GFS_Marketplace_400/W
+95,95,2004,24,2004-08-28,Bristol,43,"Dale Earnhardt, Jr.",30,Chevrolet,0.533,P,267,4601132.0,128.52,9,63,88.538,18,https://www.racing-reference.info/race-results/2004_Sharpie_500/W
+96,96,2004,25,2004-09-05,Fontana,43,Elliott Sadler,17,Ford,2.0,P,500,4798420.0,187.417,11,51,128.324,29,https://www.racing-reference.info/race-results/2004_Pop_Secret_500/W
+97,97,2004,26,2004-09-11,Richmond,43,Jeremy Mayfield,7,Dodge,0.75,P,300,3731483.0,128.7,10,57,98.946,20,https://www.racing-reference.info/race-results/2004_Chevy_Rock_and_Roll_400/W
+98,98,2004,27,2004-09-19,Loudon,43,Kurt Busch,7,Ford,1.058,P,317,3950269.0,,7,30,109.753,15,https://www.racing-reference.info/race-results/2004_Sylvania_300/W
+99,99,2004,28,2004-09-26,Dover,43,Ryan Newman,2,Dodge,1.0,P,400,3807605.0,159.405,5,38,119.067,13,https://www.racing-reference.info/race-results/2004_MBNA_America_400/W
+100,100,2004,29,2004-10-03,Talladega,43,"Dale Earnhardt, Jr.",10,Chevrolet,2.66,P,500,4086291.0,190.749,5,22,156.929,47,https://www.racing-reference.info/race-results/2004_EA_Sports_500/W
+101,101,2004,30,2004-10-10,Kansas,43,Joe Nemechek,1,Chevrolet,1.5,P,401,3553992.0,180.156,9,39,128.058,24,https://www.racing-reference.info/race-results/2004_Banquet_400_Presented_by_ConAgra_Foods/W
+102,102,2004,31,2004-10-16,Charlotte,43,Jimmie Johnson,9,Chevrolet,1.5,P,501,3833964.0,188.877,11,53,130.214,18,https://www.racing-reference.info/race-results/2004_UAW-GM_Quality_500/W
+103,103,2004,32,2004-10-24,Martinsville,43,Jimmie Johnson,18,Chevrolet,0.526,P,263,3592416.0,97.043,17,125,66.103,22,https://www.racing-reference.info/race-results/2004_Subway_500/W
+104,104,2004,33,2004-10-31,Atlanta,43,Jimmie Johnson,8,Chevrolet,1.54,P,501,4556572.0,191.575,6,33,145.847,16,https://www.racing-reference.info/race-results/2004_Bass_Pro_Shops_MBNA_500/W
+105,105,2004,34,2004-11-07,Phoenix,43,"Dale Earnhardt, Jr.",14,Chevrolet,1.0,P,315,3724017.0,135.854,11,63,94.848,10,https://www.racing-reference.info/race-results/2004_Checker_Auto_Parts_500/W
+106,106,2004,35,2004-11-14,Darlington,43,Jimmie Johnson,4,Chevrolet,1.366,P,501,4038809.0,,8,47,125.044,27,https://www.racing-reference.info/race-results/2004_Mountain_Dew_Southern_500/W
+107,107,2004,36,2004-11-21,Homestead,43,Greg Biffle,2,Ford,1.5,P,407,3948250.0,179.319,14,79,105.623,14,https://www.racing-reference.info/race-results/2004_Ford_400/W
+108,108,2005,1,2005-02-20,Daytona,43,Jeff Gordon,15,Chevrolet,2.5,P,508,14322448.0,188.312,11,45,135.173,22,https://www.racing-reference.info/race-results/2005_Daytona_500/W
+109,109,2005,2,2005-02-27,Fontana,43,Greg Biffle,5,Ford,2.0,P,500,5017255.0,188.245,7,40,139.697,26,https://www.racing-reference.info/race-results/2005_Auto_Club_500/W
+110,110,2005,3,2005-03-13,Las Vegas,43,Jimmie Johnson,9,Chevrolet,1.5,P,401,5311328.0,173.745,10,46,121.038,25,https://www.racing-reference.info/race-results/2005_UAW-Daimler_Chrysler_400/W
+111,111,2005,4,2005-03-20,Atlanta,43,Carl Edwards,4,Ford,1.54,P,501,4091540.0,194.69,8,40,143.478,27,https://www.racing-reference.info/race-results/2005_Golden_Corral_500/W
+112,112,2005,5,2005-04-03,Bristol,43,Kevin Harvick,13,Chevrolet,0.533,P,267,4583930.0,127.733,14,115,77.496,14,https://www.racing-reference.info/race-results/2005_Food_City_500/W
+113,113,2005,6,2005-04-10,Martinsville,43,Jeff Gordon,16,Chevrolet,0.526,P,263,4065850.0,96.671,16,91,72.099,17,https://www.racing-reference.info/race-results/2005_Advance_Auto_Parts_500/W
+114,114,2005,7,2005-04-17,Fort Worth,43,Greg Biffle,5,Ford,1.5,P,501,5142903.0,192.582,11,56,130.055,25,https://www.racing-reference.info/race-results/2005_Samsung_Radio_Shack_500/W
+115,115,2005,8,2005-04-23,Phoenix,43,Kurt Busch,2,Ford,1.0,P,312,4104822.0,133.675,9,43,102.707,16,https://www.racing-reference.info/race-results/2005_Subway_Fresh_500/W
+116,116,2005,9,2005-05-01,Talladega,43,Jeff Gordon,2,Chevrolet,2.66,P,516,5006878.0,189.804,8,30,146.904,33,https://www.racing-reference.info/race-results/2005_Aaron%27s_499/W
+117,117,2005,10,2005-05-07,Darlington,43,Greg Biffle,3,Ford,1.366,P,505,4583959.0,170.024,12,48,123.031,30,https://www.racing-reference.info/race-results/2005_Dodge_Charger_500/W
+118,118,2005,11,2005-05-14,Richmond,43,Kasey Kahne,1,Dodge,0.75,P,300,4170131.0,129.964,9,53,100.316,21,https://www.racing-reference.info/race-results/2005_Chevy_American_Revolution_400/W
+119,119,2005,12,2005-05-29,Charlotte,43,Jimmie Johnson,5,Chevrolet,1.5,P,600,5559507.0,192.988,22,103,114.698,37,https://www.racing-reference.info/race-results/2005_Coca-Cola_600/W
+120,120,2005,13,2005-06-05,Dover,43,Greg Biffle,2,Ford,1.0,P,400,4806320.0,,7,33,122.626,9,https://www.racing-reference.info/race-results/2005_MBNA_RacePoints_400/W
+121,121,2005,14,2005-06-12,Pocono,43,Carl Edwards,29,Ford,2.5,P,503,4072831.0,169.052,8,32,129.177,14,https://www.racing-reference.info/race-results/2005_Pocono_500/W
+122,122,2005,15,2005-06-19,Michigan,43,Greg Biffle,25,Ford,2.0,P,400,4252013.0,194.232,4,23,150.596,20,https://www.racing-reference.info/race-results/2005_Batman_Begins_400/W
+123,123,2005,16,2005-06-26,Sonoma,43,Tony Stewart,7,Chevrolet,1.99,R,219,4599240.0,94.325,8,18,72.845,7,https://www.racing-reference.info/race-results/2005_Dodge_Save_Mart_350/W
+124,124,2005,17,2005-07-02,Daytona,43,Tony Stewart,1,Chevrolet,2.5,P,400,5169861.0,185.582,9,41,131.016,7,https://www.racing-reference.info/race-results/2005_Pepsi_400/W
+125,125,2005,18,2005-07-10,Chicago,43,"Dale Earnhardt, Jr.",25,Chevrolet,1.5,P,401,5038793.0,188.147,10,47,127.638,17,https://www.racing-reference.info/race-results/2005_USG_Sheetrock_400/W
+126,126,2005,19,2005-07-17,Loudon,43,Tony Stewart,13,Chevrolet,1.058,P,317,4411113.0,130.327,10,49,102.608,14,https://www.racing-reference.info/race-results/2005_New_England_300/W
+127,127,2005,20,2005-07-24,Pocono,43,Kurt Busch,2,Ford,2.5,P,508,4077931.0,168.76,13,40,125.283,13,https://www.racing-reference.info/race-results/2005_Pennsylvania_500/W
+128,128,2005,21,2005-08-07,Indianapolis,43,Tony Stewart,22,Chevrolet,2.5,P,400,8087058.0,184.117,10,43,118.782,15,https://www.racing-reference.info/race-results/2005_Allstate_400_At_The_Brickyard/W
+129,129,2005,22,2005-08-14,Watkins Glen,43,Tony Stewart,1,Chevrolet,2.45,R,225,3990100.0,,7,14,86.804,9,https://www.racing-reference.info/race-results/2005_Sirius_Satellite_Radio_at_the_Glen/W
+130,130,2005,23,2005-08-21,Michigan,43,Jeremy Mayfield,11,Dodge,2.0,P,400,4249208.0,191.53,7,30,141.551,19,https://www.racing-reference.info/race-results/2005_GFS_Marketplace_400/W
+131,131,2005,24,2005-08-27,Bristol,43,Matt Kenseth,1,Ford,0.533,P,267,5162959.0,127.3,16,88,84.678,17,https://www.racing-reference.info/race-results/2005_Sharpie_500/W
+132,132,2005,25,2005-09-04,Fontana,43,Kyle Busch,25,Chevrolet,2.0,P,508,5056153.0,185.061,11,43,136.356,30,https://www.racing-reference.info/race-results/2005_Sony_HD_500/W
+133,133,2005,26,2005-09-10,Richmond,43,Kurt Busch,5,Ford,0.75,P,300,4181283.0,128.425,12,60,98.567,23,https://www.racing-reference.info/race-results/2005_Chevy_Rock_And_Roll_400/W
+134,134,2005,27,2005-09-18,Loudon,43,Ryan Newman,13,Dodge,1.058,P,317,4401113.0,131.143,10,60,95.891,18,https://www.racing-reference.info/race-results/2005_Sylvania_300/W
+135,135,2005,28,2005-09-25,Dover,43,Jimmie Johnson,5,Chevrolet,1.0,P,404,4303988.0,158.103,11,50,115.054,15,https://www.racing-reference.info/race-results/2005_MBNA_NASCAR_RacePoints_400/W
+136,136,2005,29,2005-10-02,Talladega,43,Dale Jarrett,2,Ford,2.66,P,505,4659180.0,189.26,10,33,143.818,50,https://www.racing-reference.info/race-results/2005_UAW-Ford_500/W
+137,137,2005,30,2005-10-09,Kansas,43,Mark Martin,19,Ford,1.5,P,401,5069143.0,180.856,7,28,137.774,16,https://www.racing-reference.info/race-results/2005_Banquet_400_Presented_by_ConAgra_Foods/W
+138,138,2005,31,2005-10-15,Charlotte,43,Jimmie Johnson,3,Chevrolet,1.5,P,504,4491990.0,193.216,15,84,120.334,35,https://www.racing-reference.info/race-results/2005_UAW-GM_Quality_500/W
+139,139,2005,32,2005-10-23,Martinsville,43,Jeff Gordon,15,Chevrolet,0.526,P,263,4020620.0,98.084,19,113,69.695,15,https://www.racing-reference.info/race-results/2005_Subway_500/W
+140,140,2005,33,2005-10-30,Atlanta,43,Carl Edwards,2,Ford,1.54,P,501,5122420.0,193.928,9,39,146.834,27,https://www.racing-reference.info/race-results/2005_Bass_Pro_Shops_MBNA_500/W
+141,141,2005,34,2005-11-06,Fort Worth,43,Carl Edwards,30,Ford,1.5,P,501,5936997.0,192.947,6,27,151.055,23,https://www.racing-reference.info/race-results/2005_Dickies_500/W
+142,142,2005,35,2005-11-13,Phoenix,43,Kyle Busch,15,Chevrolet,1.0,P,312,4135727.0,134.173,9,44,102.641,10,https://www.racing-reference.info/race-results/2005_Checker_Auto_Parts_500/W
+143,143,2005,36,2005-11-20,Homestead,43,Greg Biffle,7,Ford,1.5,P,401,4388116.0,176.051,8,37,131.431,21,https://www.racing-reference.info/race-results/2005_Ford_400/W
+144,144,2006,1,2006-02-19,Daytona,43,Jimmie Johnson,9,Chevrolet,2.5,P,508,15521950.0,189.151,11,39,142.667,32,https://www.racing-reference.info/race-results/2006_Daytona_500/W
+145,145,2006,2,2006-02-26,Fontana,43,Matt Kenseth,31,Ford,2.0,P,502,5083604.0,187.086,7,26,147.852,18,https://www.racing-reference.info/race-results/2006_Auto_Club_500/W
+146,146,2006,3,2006-03-12,Las Vegas,43,Jimmie Johnson,3,Chevrolet,1.5,P,405,5268649.0,172.403,7,30,133.358,22,https://www.racing-reference.info/race-results/2006_UAW-Daimler_Chrysler_400/W
+147,147,2006,4,2006-03-20,Atlanta,43,Kasey Kahne,1,Dodge,1.54,P,501,4158531.0,192.553,8,43,144.098,27,https://www.racing-reference.info/race-results/2006_Golden_Corral_500/W
+148,148,2006,5,2006-03-26,Bristol,43,Kurt Busch,9,Dodge,0.533,P,267,4667638.0,,18,104,79.427,19,https://www.racing-reference.info/race-results/2006_Food_City_500/W
+149,149,2006,6,2006-04-02,Martinsville,43,Tony Stewart,3,Chevrolet,0.526,P,263,4152141.0,96.736,16,87,72.741,12,https://www.racing-reference.info/race-results/2006_DirecTV_500/W
+150,150,2006,7,2006-04-09,Fort Worth,43,Kasey Kahne,1,Dodge,1.5,P,501,6169524.0,190.315,9,43,137.943,22,https://www.racing-reference.info/race-results/2006_Samsung_Radio_Shack_500/W
+151,151,2006,8,2006-04-22,Phoenix,43,Kevin Harvick,15,Chevrolet,1.0,P,312,4182372.0,133.745,7,29,107.063,20,https://www.racing-reference.info/race-results/2006_Subway_Fresh_500/W
+152,152,2006,9,2006-05-01,Talladega,43,Jimmie Johnson,16,Chevrolet,2.66,P,500,5103240.0,188.511,8,34,142.891,56,https://www.racing-reference.info/race-results/2006_Aaron%27s_499/W
+153,153,2006,10,2006-05-06,Richmond,43,"Dale Earnhardt, Jr.",10,Chevrolet,0.75,P,300,4244130.0,127.395,11,61,97.061,12,https://www.racing-reference.info/race-results/2006_Crown_Royal_400/W
+154,154,2006,11,2006-05-13,Darlington,43,Greg Biffle,9,Ford,1.366,P,501,4658259.0,169.013,6,24,135.127,25,https://www.racing-reference.info/race-results/2006_Dodge_Charger_500/W
+155,155,2006,12,2006-05-28,Charlotte,43,Kasey Kahne,9,Dodge,1.5,P,600,5575514.0,187.865,15,66,128.84,37,https://www.racing-reference.info/race-results/2006_Coca-Cola_600/W
+156,156,2006,13,2006-06-04,Dover,43,Matt Kenseth,19,Ford,1.0,P,400,4899240.0,154.633,9,51,109.865,23,https://www.racing-reference.info/race-results/2006_Neighborhood_Excellence_400_Presented_by_Bank_of_America/W
+157,157,2006,14,2006-06-11,Pocono,43,Denny Hamlin,1,Chevrolet,2.5,P,500,4159824.0,169.639,7,28,131.656,25,https://www.racing-reference.info/race-results/2006_Pocono_500/W
+158,158,2006,15,2006-06-18,Michigan,43,Kasey Kahne,1,Dodge,2.0,P,258,4333619.0,185.644,9,37,118.788,17,https://www.racing-reference.info/race-results/2006_3M_Performance_400_Presented_by_Post-It_Picture_Paper/W
+159,159,2006,16,2006-06-25,Sonoma,43,Jeff Gordon,11,Chevrolet,1.99,R,219,4632483.0,93.055,7,12,73.953,9,https://www.racing-reference.info/race-results/2006_Dodge_Save_Mart_350/W
+160,160,2006,17,2006-07-01,Daytona,43,Tony Stewart,2,Chevrolet,2.5,P,400,5261738.0,186.143,6,19,153.143,29,https://www.racing-reference.info/race-results/2006_Pepsi_400/W
+161,161,2006,18,2006-07-09,Chicago,43,Jeff Gordon,13,Chevrolet,1.5,P,405,5132248.0,181.647,8,34,132.077,18,https://www.racing-reference.info/race-results/2006_USG_Sheetrock_400/W
+162,162,2006,19,2006-07-16,Loudon,43,Kyle Busch,4,Chevrolet,1.058,P,326,4489191.0,129.683,11,49,101.384,21,https://www.racing-reference.info/race-results/2006_Lenox_Industrial_Tools_300/W
+163,163,2006,20,2006-07-23,Pocono,43,Denny Hamlin,1,Chevrolet,2.5,P,500,4159824.0,169.827,7,29,132.626,13,https://www.racing-reference.info/race-results/2006_Pennsylvania_500/W
+164,164,2006,21,2006-08-06,Indianapolis,43,Jimmie Johnson,5,Chevrolet,2.5,P,400,8158257.0,182.778,8,24,137.182,18,https://www.racing-reference.info/race-results/2006_Allstate_400_At_The_Brickyard/W
+165,165,2006,22,2006-08-13,Watkins Glen,43,Kevin Harvick,7,Chevrolet,2.45,R,221,4039139.0,122.966,10,22,76.718,14,https://www.racing-reference.info/race-results/2006_AMD_at_the_Glen/W
+166,166,2006,23,2006-08-20,Michigan,43,Matt Kenseth,3,Ford,2.0,P,400,4320829.0,187.936,10,36,135.097,26,https://www.racing-reference.info/race-results/2006_GFS_Marketplace_400/W
+167,167,2006,24,2006-08-26,Bristol,43,Matt Kenseth,4,Ford,0.533,P,267,5253226.0,124.906,10,62,90.025,18,https://www.racing-reference.info/race-results/2006_Sharpie_500/W
+168,168,2006,25,2006-09-03,Fontana,43,Kasey Kahne,9,Dodge,2.0,P,500,5161883.0,184.54,7,29,144.462,26,https://www.racing-reference.info/race-results/2006_Sony_HD_500/W
+169,169,2006,26,2006-09-09,Richmond,43,Kevin Harvick,5,Chevrolet,0.75,P,300,4260516.0,127.986,7,48,101.342,16,https://www.racing-reference.info/race-results/2006_Chevy_Rock_And_Roll_400/W
+170,170,2006,27,2006-09-17,Loudon,43,Kevin Harvick,1,Chevrolet,1.058,P,317,4487191.0,132.282,10,47,102.195,17,https://www.racing-reference.info/race-results/2006_Sylvania_300/W
+171,171,2006,28,2006-09-24,Dover,43,Jeff Burton,19,Chevrolet,1.0,P,400,4325713.0,156.162,10,48,111.966,12,https://www.racing-reference.info/race-results/2006_Dover_400/W
+172,172,2006,29,2006-10-01,Kansas,43,Tony Stewart,21,Chevrolet,1.5,P,401,5132248.0,178.377,11,45,121.753,20,https://www.racing-reference.info/race-results/2006_Banquet_400_Presented_by_ConAgra_Foods/W
+173,173,2006,30,2006-10-08,Talladega,43,Brian Vickers,9,Chevrolet,2.66,P,500,4547000.0,191.712,6,22,157.602,63,https://www.racing-reference.info/race-results/2006_UAW-Ford_500/W
+174,174,2006,31,2006-10-14,Charlotte,43,Kasey Kahne,2,Dodge,1.5,P,501,4374795.0,191.469,10,52,132.142,34,https://www.racing-reference.info/race-results/2006_Bank_Of_America_500/W
+175,175,2006,32,2006-10-22,Martinsville,43,Jimmie Johnson,9,Chevrolet,0.526,P,263,4105914.0,97.568,18,107,70.446,16,https://www.racing-reference.info/race-results/2006_Subway_500/W
+176,176,2006,33,2006-10-29,Atlanta,43,Tony Stewart,11,Chevrolet,1.54,P,501,5205824.0,,9,39,143.421,24,https://www.racing-reference.info/race-results/2006_Bass_Pro_Shops_MBNA_500/W
+177,177,2006,34,2006-11-05,Fort Worth,43,Tony Stewart,8,Chevrolet,1.5,P,509,6158041.0,196.235,12,51,134.891,23,https://www.racing-reference.info/race-results/2006_Dickies_500/W
+178,178,2006,35,2006-11-12,Phoenix,43,Kevin Harvick,2,Chevrolet,1.0,P,312,3737835.0,134.464,10,58,96.131,12,https://www.racing-reference.info/race-results/2006_Checker_Auto_Parts_500_Presented_by_Pennzoil/W
+179,179,2006,36,2006-11-19,Homestead,43,Greg Biffle,22,Ford,1.5,P,402,4478605.0,178.259,11,43,125.375,15,https://www.racing-reference.info/race-results/2006_Ford_400/W
+180,180,2007,1,2007-02-18,Daytona,43,Kevin Harvick,34,Chevrolet,2.5,P,505,15640508.0,186.32,6,26,149.333,14,https://www.racing-reference.info/race-results/2007_Daytona_500/W
+181,181,2007,2,2007-02-25,Fontana,43,Matt Kenseth,25,Ford,2.0,P,500,5185360.0,185.735,9,37,138.451,28,https://www.racing-reference.info/race-results/2007_Auto_Club_500/W
+182,182,2007,3,2007-03-11,Las Vegas,43,Jimmie Johnson,23,Chevrolet,1.5,P,401,5467264.0,184.855,9,40,128.183,28,https://www.racing-reference.info/race-results/2007_UAW-Daimler_Chrysler_400/W
+183,183,2007,4,2007-03-18,Atlanta,43,Jimmie Johnson,3,Chevrolet,1.54,P,501,4207936.0,193.124,6,27,152.915,31,https://www.racing-reference.info/race-results/2007_Kobalt_Tools_500/W
+184,184,2007,5,2007-03-25,Bristol,43,Kyle Busch,20,Chevrolet,0.533,P,269,4745304.0,125.453,15,90,81.969,14,https://www.racing-reference.info/race-results/2007_Food_City_500/W
+185,185,2007,6,2007-04-01,Martinsville,43,Jimmie Johnson,20,Chevrolet,0.526,P,263,4192370.0,95.103,13,93,70.258,14,https://www.racing-reference.info/race-results/2007_Goody%27s_Cool_Orange_500/W
+186,186,2007,7,2007-04-15,Fort Worth,43,Jeff Burton,2,Chevrolet,1.5,P,501,6240747.0,,7,33,143.359,13,https://www.racing-reference.info/race-results/2007_Samsung_500/W
+187,187,2007,8,2007-04-21,Phoenix,43,Jeff Gordon,1,Chevrolet,1.0,P,312,4224288.0,133.136,6,34,107.71,12,https://www.racing-reference.info/race-results/2007_Subway_Fresh_Fit_500/W
+188,188,2007,9,2007-04-29,Talladega,43,Jeff Gordon,1,Chevrolet,2.66,P,511,5131410.0,192.069,8,28,154.167,42,https://www.racing-reference.info/race-results/2007_Aaron%27s_499/W
+189,189,2007,10,2007-05-06,Richmond,43,Jimmie Johnson,4,Chevrolet,0.75,P,300,4267936.0,126.251,14,80,91.27,24,https://www.racing-reference.info/race-results/2007_Crown_Royal_Presents_The_Jim_Stewart_400/W
+190,190,2007,11,2007-05-13,Darlington,43,Jeff Gordon,10,Chevrolet,1.366,P,501,4691994.0,164.987,10,44,124.383,21,https://www.racing-reference.info/race-results/2007_Dodge_Avenger_500/W
+191,191,2007,12,2007-05-27,Charlotte,43,Casey Mears,16,Chevrolet,1.5,P,600,5653717.0,185.312,13,62,130.222,29,https://www.racing-reference.info/race-results/2007_Coca_Cola_600/W
+192,192,2007,13,2007-06-04,Dover,43,"Martin Truex, Jr.",26,Chevrolet,1.0,P,400,4951654.0,152.925,7,35,118.95,18,https://www.racing-reference.info/race-results/2007_Autism_Speaks_400_Presented_by_Visa/W
+193,193,2007,14,2007-06-10,Pocono,43,Jeff Gordon,18,Chevrolet,2.5,P,265,4212214.0,170.062,4,10,135.608,15,https://www.racing-reference.info/race-results/2007_Pocono_500/W
+194,194,2007,15,2007-06-17,Michigan,43,Carl Edwards,12,Ford,2.0,P,400,4390723.0,187.505,4,19,148.072,22,https://www.racing-reference.info/race-results/2007_Citizens_Bank_400/W
+195,195,2007,16,2007-06-24,Sonoma,43,Juan Pablo Montoya,32,Dodge,1.99,R,219,4676895.0,92.414,7,14,74.547,11,https://www.racing-reference.info/race-results/2007_Toyota_Save_Mart_350/W
+196,196,2007,17,2007-07-01,Loudon,43,Denny Hamlin,11,Chevrolet,1.058,P,317,4541403.0,129.437,6,31,108.215,20,https://www.racing-reference.info/race-results/2007_Lenox_Industrial_Tools_300/W
+197,197,2007,18,2007-07-07,Daytona,43,Jamie McMurray,15,Ford,2.5,P,400,5323628.0,,8,30,138.983,28,https://www.racing-reference.info/race-results/2007_Pepsi_400/W
+198,198,2007,19,2007-07-15,Chicago,43,Tony Stewart,19,Chevrolet,1.5,P,401,5191653.0,182.556,7,32,134.258,20,https://www.racing-reference.info/race-results/2007_USG_Sheetrock_400/W
+199,199,2007,20,2007-07-29,Indianapolis,43,Tony Stewart,14,Chevrolet,2.5,P,400,8298329.0,184.207,9,43,117.379,14,https://www.racing-reference.info/race-results/2007_Allstate_400_At_The_Brickyard/W
+200,200,2007,21,2007-08-05,Pocono,43,Kurt Busch,2,Dodge,2.5,P,500,4212214.0,169.975,7,27,131.627,17,https://www.racing-reference.info/race-results/2007_Pennsylvania_500/W
+201,201,2007,22,2007-08-12,Watkins Glen,43,Tony Stewart,5,Chevrolet,2.45,R,221,4082715.0,,8,20,77.535,9,https://www.racing-reference.info/race-results/2007_Centurion_Boats_at_the_Glen/W
+202,202,2007,23,2007-08-21,Michigan,43,Kurt Busch,15,Dodge,2.0,P,406,4389946.0,189.026,8,36,117.044,18,https://www.racing-reference.info/race-results/2007_3M_Performance_400/W
+203,203,2007,24,2007-08-25,Bristol,43,Carl Edwards,6,Ford,0.533,P,267,5313892.0,119.805,9,61,89.006,12,https://www.racing-reference.info/race-results/2007_Sharpie_500/W
+204,204,2007,25,2007-09-02,Fontana,43,Jimmie Johnson,2,Chevrolet,2.0,P,500,5236335.0,182.399,11,43,131.502,30,https://www.racing-reference.info/race-results/2007_Sharp_Aquos_500/W
+205,205,2007,26,2007-09-08,Richmond,43,Jimmie Johnson,1,Chevrolet,0.75,P,300,4316185.0,126.298,12,70,91.813,15,https://www.racing-reference.info/race-results/2007_Chevy_Rock_And_Roll_400/W
+206,206,2007,27,2007-09-16,Loudon,43,Clint Bowyer,1,Chevrolet,1.058,P,317,4549103.0,130.412,7,27,110.475,13,https://www.racing-reference.info/race-results/2007_Sylvania_300/W
+207,207,2007,28,2007-09-23,Dover,43,Carl Edwards,15,Ford,1.0,P,400,4374780.0,154.765,13,66,101.846,14,https://www.racing-reference.info/race-results/2007_Dodge_Dealers_400/W
+208,208,2007,29,2007-09-30,Kansas,43,Greg Biffle,7,Ford,1.5,P,315,5199353.0,175.063,12,54,104.981,16,https://www.racing-reference.info/race-results/2007_Lifelock_400/W
+209,209,2007,30,2007-10-07,Talladega,43,Jeff Gordon,34,Chevrolet,2.66,P,500,4603006.0,189.07,9,34,143.438,42,https://www.racing-reference.info/race-results/2007_UAW-Ford_500/W
+210,210,2007,31,2007-10-13,Charlotte,43,Jeff Gordon,4,Chevrolet,1.5,P,506,4433635.0,189.394,15,62,125.868,26,https://www.racing-reference.info/race-results/2007_Bank_Of_America_500/W
+211,211,2007,32,2007-10-21,Martinsville,43,Jimmie Johnson,4,Chevrolet,0.526,P,266,4155207.0,94.974,21,127,66.608,12,https://www.racing-reference.info/race-results/2007_Subway_500/W
+212,212,2007,33,2007-10-28,Atlanta,43,Jimmie Johnson,6,Chevrolet,1.54,P,507,5255503.0,192.453,14,55,135.26,19,https://www.racing-reference.info/race-results/2007_Pep_Boys_Auto_500/W
+213,213,2007,34,2007-11-04,Fort Worth,43,Jimmie Johnson,8,Chevrolet,1.5,P,501,6270378.0,193.105,12,52,131.219,27,https://www.racing-reference.info/race-results/2007_Dickies_500/W
+214,214,2007,35,2007-11-11,Phoenix,43,Jimmie Johnson,6,Chevrolet,1.0,P,312,4254207.0,132.773,10,42,102.989,10,https://www.racing-reference.info/race-results/2007_Checker_Auto_Parts_500_Presented_by_Pennzoil/W
+215,215,2007,36,2007-11-18,Homestead,43,Matt Kenseth,4,Ford,1.5,P,401,4540919.0,176.788,7,32,131.888,25,https://www.racing-reference.info/race-results/2007_Ford_400/W
+216,216,2008,1,2008-02-17,Daytona,43,Ryan Newman,7,Dodge,2.5,P,500,16047052.0,187.075,7,23,152.672,42,https://www.racing-reference.info/race-results/2008_Daytona_500/W
+217,217,2008,2,2008-02-25,Fontana,43,Carl Edwards,9,Ford,2.0,P,500,5232311.0,,12,44,132.704,33,https://www.racing-reference.info/race-results/2008_Auto_Club_500/W
+218,218,2008,3,2008-03-02,Las Vegas,43,Carl Edwards,2,Ford,1.5,P,401,5505220.0,182.352,11,44,127.729,19,https://www.racing-reference.info/race-results/2008_UAW-Dodge_400/W
+219,219,2008,4,2008-03-09,Atlanta,43,Kyle Busch,6,Toyota,1.54,P,501,4254305.0,185.251,8,35,140.975,26,https://www.racing-reference.info/race-results/2008_Kobalt_Tools_500/W
+220,220,2008,5,2008-03-16,Bristol,43,Jeff Burton,8,Chevrolet,0.533,P,270,4798052.0,,10,68,89.775,17,https://www.racing-reference.info/race-results/2008_Food_City_500/W
+221,221,2008,6,2008-03-30,Martinsville,43,Denny Hamlin,2,Toyota,0.526,P,263,4269418.0,96.288,18,89,73.163,20,https://www.racing-reference.info/race-results/2008_Goody%27s_Cool_Orange_500/W
+222,222,2008,7,2008-04-06,Fort Worth,43,Carl Edwards,2,Ford,1.5,P,509,6307748.0,190.907,6,27,144.814,16,https://www.racing-reference.info/race-results/2008_Samsung_500/W
+223,223,2008,8,2008-04-12,Phoenix,43,Jimmie Johnson,7,Chevrolet,1.0,P,312,4301830.0,133.457,8,42,103.292,10,https://www.racing-reference.info/race-results/2008_Subway_Fresh_Fit_500/W
+224,224,2008,9,2008-04-27,Talladega,43,Kyle Busch,5,Toyota,2.66,P,500,5209475.0,187.386,8,23,157.409,52,https://www.racing-reference.info/race-results/2008_Aaron%27s_499/W
+225,225,2008,10,2008-05-03,Richmond,43,Clint Bowyer,31,Chevrolet,0.75,P,308,4340768.0,126.198,11,62,95.786,4,https://www.racing-reference.info/race-results/2008_Crown_Royal_Presents_the_Dan_Lowry_400/W
+226,226,2008,11,2008-05-10,Darlington,43,Kyle Busch,6,Toyota,1.366,P,501,4788401.0,179.442,8,31,140.35,35,https://www.racing-reference.info/race-results/2008_Dodge_Challenger_500/W
+227,227,2008,12,2008-05-25,Charlotte,43,Kasey Kahne,2,Dodge,1.5,P,600,5685573.0,185.433,11,50,135.772,37,https://www.racing-reference.info/race-results/2008_Coca_Cola_600/W
+228,228,2008,13,2008-06-01,Dover,43,Kyle Busch,3,Toyota,1.0,P,400,5007355.0,155.219,5,26,121.171,15,https://www.racing-reference.info/race-results/2008_Best_Buy_400_Benefiting_Student_Clubs_for_Autism_Speaks/W
+229,229,2008,14,2008-06-08,Pocono,43,Kasey Kahne,1,Dodge,2.5,P,500,4270541.0,170.219,10,38,125.209,23,https://www.racing-reference.info/race-results/2008_Pocono_500/W
+230,230,2008,15,2008-06-15,Michigan,43,"Dale Earnhardt, Jr.",3,Chevrolet,2.0,P,406,4453280.0,,7,22,145.375,31,https://www.racing-reference.info/race-results/2008_LifeLock_400/W
+231,231,2008,16,2008-06-22,Sonoma,43,Kyle Busch,30,Toyota,1.99,R,223,4745121.0,92.153,6,14,76.445,5,https://www.racing-reference.info/race-results/2008_Toyota_Save_Mart_350/W
+232,232,2008,17,2008-06-29,Loudon,43,Kurt Busch,26,Dodge,1.058,P,300,4565787.0,129.776,7,33,106.719,9,https://www.racing-reference.info/race-results/2008_Lenox_Industrial_Tools_301/W
+233,233,2008,18,2008-07-05,Daytona,43,Kyle Busch,9,Toyota,2.5,P,405,5372729.0,185.916,11,33,138.554,21,https://www.racing-reference.info/race-results/2008_Coke_Zero_400_Powered_by_Coca-Cola/W
+234,234,2008,19,2008-07-12,Chicago,43,Kyle Busch,1,Toyota,1.5,P,401,5241854.0,,9,33,133.996,16,https://www.racing-reference.info/race-results/2008_Lifelock.com_400/W
+235,235,2008,20,2008-07-27,Indianapolis,43,Jimmie Johnson,1,Chevrolet,2.5,P,400,8329981.0,181.763,11,52,115.117,26,https://www.racing-reference.info/race-results/2008_Allstate_400_At_The_Brickyard/W
+236,236,2008,21,2008-08-03,Pocono,43,Carl Edwards,15,Ford,2.5,P,500,4278541.0,168.215,7,31,130.567,25,https://www.racing-reference.info/race-results/2008_Sunoco_Red_Cross_Pennsylvania_500/W
+237,237,2008,22,2008-08-10,Watkins Glen,43,Kyle Busch,1,Toyota,2.45,R,221,4146460.0,,4,9,97.148,8,https://www.racing-reference.info/race-results/2008_Centurion_Boats_at_the_Glen/W
+238,238,2008,23,2008-08-17,Michigan,43,Carl Edwards,27,Ford,2.0,P,400,4458094.0,188.536,7,27,140.351,18,https://www.racing-reference.info/race-results/2008_3M_Performance_400_Presented_by_Bondo/W
+239,239,2008,24,2008-08-23,Bristol,43,Carl Edwards,1,Ford,0.533,P,267,5404017.0,121.86,8,56,91.581,4,https://www.racing-reference.info/race-results/2008_Sharpie_500/W
+240,240,2008,25,2008-08-31,Fontana,43,Jimmie Johnson,1,Chevrolet,2.0,P,500,5280964.0,180.397,8,34,138.857,20,https://www.racing-reference.info/race-results/2008_Pepsi_500/W
+241,241,2008,26,2008-09-07,Richmond,43,Jimmie Johnson,3,Chevrolet,0.75,P,300,4378691.0,,14,71,92.68,22,https://www.racing-reference.info/race-results/2008_Chevy_Rock_And_Roll_400/W
+242,242,2008,27,2008-09-14,Loudon,43,Greg Biffle,9,Ford,1.058,P,317,4574532.0,,8,37,105.468,14,https://www.racing-reference.info/race-results/2008_Sylvania_300/W
+243,243,2008,28,2008-09-21,Dover,43,Greg Biffle,5,Ford,1.0,P,400,4452824.0,157.061,10,45,114.168,15,https://www.racing-reference.info/race-results/2008_Camping_World_RV_400_Presented_by_AAA/W
+244,244,2008,29,2008-09-28,Kansas,43,Jimmie Johnson,1,Chevrolet,1.5,P,401,5247434.0,172.007,7,25,133.549,16,https://www.racing-reference.info/race-results/2008_Camping_World_RV_400_Presented_by_Coleman/W
+245,245,2008,30,2008-10-05,Talladega,43,Tony Stewart,34,Toyota,2.66,P,505,4601660.0,187.364,10,41,140.281,64,https://www.racing-reference.info/race-results/2008_AMP_Energy_500/W
+246,246,2008,31,2008-10-11,Charlotte,43,Jeff Burton,4,Chevrolet,1.5,P,501,4465390.0,,10,49,133.699,24,https://www.racing-reference.info/race-results/2008_Bank_Of_America_500/W
+247,247,2008,32,2008-10-19,Martinsville,43,Jimmie Johnson,1,Chevrolet,0.526,P,265,4211052.0,,12,76,75.931,14,https://www.racing-reference.info/race-results/2008_Tums_QuikPak_500/W
+248,248,2008,33,2008-10-26,Atlanta,43,Carl Edwards,4,Ford,1.54,P,501,5323204.0,,10,43,134.272,18,https://www.racing-reference.info/race-results/2008_Pep_Boys_Auto_500/W
+249,249,2008,34,2008-11-02,Fort Worth,43,Carl Edwards,16,Ford,1.5,P,501,6307007.0,188.469,5,26,144.219,16,https://www.racing-reference.info/race-results/2008_Dickies_500/W
+250,250,2008,35,2008-11-09,Phoenix,43,Jimmie Johnson,1,Chevrolet,1.0,P,313,4331086.0,134.725,10,55,97.804,9,https://www.racing-reference.info/race-results/2008_Checker_O%27Reilly_Auto_Parts_500_Presented_by_Pennzoil/W
+251,251,2008,36,2008-11-16,Homestead,43,Carl Edwards,4,Ford,1.5,P,401,4523573.0,171.636,7,31,129.472,15,https://www.racing-reference.info/race-results/2008_Ford_400/W
+252,252,2009,1,2009-02-15,Daytona,43,Matt Kenseth,39,Ford,2.5,P,380,16378767.0,188.001,8,35,132.816,9,https://www.racing-reference.info/race-results/2009_Daytona_500/W
+253,253,2009,2,2009-02-22,Fontana,43,Matt Kenseth,24,Ford,2.0,P,500,5350787.0,183.439,5,43,135.839,19,https://www.racing-reference.info/race-results/2009_Auto_Club_500/W
+254,254,2009,3,2009-03-01,Las Vegas,43,Kyle Busch,1,Toyota,1.5,P,428,5697941.0,185.995,14,66,119.515,16,https://www.racing-reference.info/race-results/2009_Shelby_427/W
+255,255,2009,4,2009-03-08,Atlanta,43,Kurt Busch,2,Dodge,1.54,P,508,4383518.0,187.045,11,54,127.573,13,https://www.racing-reference.info/race-results/2009_Kobalt_Tools_500/W
+256,256,2009,5,2009-03-22,Bristol,43,Kyle Busch,19,Toyota,0.533,P,268,4917965.0,125.773,9,58,92.139,13,https://www.racing-reference.info/race-results/2009_Food_City_500/W
+257,257,2009,6,2009-03-29,Martinsville,43,Jimmie Johnson,9,Chevrolet,0.526,P,263,4344736.0,,12,66,75.938,13,https://www.racing-reference.info/race-results/2009_Goody%27s_Fast_Pain_Relief_500/W
+258,258,2009,7,2009-04-05,Fort Worth,43,Jeff Gordon,2,Chevrolet,1.5,P,501,6417574.0,190.517,6,30,146.372,28,https://www.racing-reference.info/race-results/2009_Samsung_500/W
+259,259,2009,8,2009-04-18,Phoenix,43,Mark Martin,1,Chevrolet,1.0,P,312,4379448.0,133.814,6,29,108.042,14,https://www.racing-reference.info/race-results/2009_Subway_Fresh_Fit_500/W
+260,260,2009,9,2009-04-26,Talladega,43,Brad Keselowski,9,Chevrolet,2.66,P,500,5319301.0,188.171,9,33,147.565,57,https://www.racing-reference.info/race-results/2009_Aaron%27s_499/W
+261,261,2009,10,2009-05-02,Richmond,43,Kyle Busch,14,Toyota,0.75,P,300,4452331.0,127.131,15,79,90.627,21,https://www.racing-reference.info/race-results/2009_Crown_Royal_Presents_the_Russ_Friedman_400/W
+262,262,2009,11,2009-05-09,Darlington,43,Mark Martin,12,Chevrolet,1.366,P,501,4890227.0,179.514,17,73,119.687,23,https://www.racing-reference.info/race-results/2009_Southern_500/W
+263,263,2009,12,2009-05-25,Charlotte,43,David Reutimann,21,Toyota,1.5,P,341,5814244.0,188.475,6,40,120.899,14,https://www.racing-reference.info/race-results/2009_Coca-Cola_600/W
+264,264,2009,13,2009-05-31,Dover,43,Jimmie Johnson,8,Chevrolet,1.0,P,400,5109181.0,156.794,10,43,115.237,25,https://www.racing-reference.info/race-results/2009_Autism_Speaks_400_Presented_by_Heluva_Good/W
+265,265,2009,14,2009-06-07,Pocono,43,Tony Stewart,1,Chevrolet,2.5,P,500,4355434.0,,5,20,138.515,22,https://www.racing-reference.info/race-results/2009_Pocono_500/W
+266,266,2009,15,2009-06-14,Michigan,43,Mark Martin,32,Chevrolet,2.0,P,400,4546348.0,189.11,3,14,155.491,11,https://www.racing-reference.info/race-results/2009_LifeLock_400/W
+267,267,2009,16,2009-06-21,Sonoma,43,Kasey Kahne,5,Dodge,1.99,R,225,4863147.0,93.678,7,20,71.012,10,https://www.racing-reference.info/race-results/2009_Toyota_Save_Mart_350/W
+268,268,2009,17,2009-06-28,Loudon,43,Joey Logano,24,Toyota,1.058,P,289,4659650.0,,11,47,97.497,21,https://www.racing-reference.info/race-results/2009_Lenox_Industrial_Tools_301/W
+269,269,2009,18,2009-07-04,Daytona,43,Tony Stewart,1,Chevrolet,2.5,P,400,5472955.0,,8,30,142.461,23,https://www.racing-reference.info/race-results/2009_Coke_Zero_400_Powered_by_Coca-Cola/W
+270,270,2009,19,2009-07-11,Chicago,43,Mark Martin,14,Chevrolet,1.5,P,401,5349180.0,184.162,7,30,133.804,10,https://www.racing-reference.info/race-results/2009_LifeLock.com_400/W
+271,271,2009,20,2009-07-26,Indianapolis,43,Jimmie Johnson,16,Chevrolet,2.5,P,400,8393098.0,182.054,3,14,145.882,9,https://www.racing-reference.info/race-results/2009_Allstate_400_At_The_Brickyard/W
+272,272,2009,21,2009-08-03,Pocono,43,Denny Hamlin,6,Toyota,2.5,P,500,4355434.0,,10,39,126.396,17,https://www.racing-reference.info/race-results/2009_Sunoco_Red_Cross_Pennsylvania_500/W
+273,273,2009,22,2009-08-10,Watkins Glen,43,Tony Stewart,13,Chevrolet,2.45,R,221,4237178.0,123.663,5,13,90.297,12,https://www.racing-reference.info/race-results/2009_Heluva_Good_Sour_Cream_Dips_at_The_Glen/W
+274,274,2009,23,2009-08-16,Michigan,43,Brian Vickers,1,Toyota,2.0,P,400,4543312.0,187.242,7,36,131.531,25,https://www.racing-reference.info/race-results/2009_Carfax_400/W
+275,275,2009,24,2009-08-22,Bristol,43,Kyle Busch,15,Toyota,0.533,P,267,5505843.0,124.484,11,76,84.82,12,https://www.racing-reference.info/race-results/2009_Sharpie_500/W
+276,276,2009,25,2009-09-06,Atlanta,43,Kasey Kahne,2,Dodge,1.54,P,501,5437530.0,184.149,9,42,134.033,31,https://www.racing-reference.info/race-results/2009_Pep_Boys_Auto_500/W
+277,277,2009,26,2009-09-12,Richmond,43,Denny Hamlin,3,Toyota,0.75,P,300,4469809.0,126.808,10,56,96.601,12,https://www.racing-reference.info/race-results/2009_Chevy_Rock_And_Roll_400/W
+278,278,2009,27,2009-09-20,Loudon,43,Mark Martin,14,Chevrolet,1.058,P,317,4671250.0,133.431,11,48,100.753,20,https://www.racing-reference.info/race-results/2009_Sylvania_300/W
+279,279,2009,28,2009-09-27,Dover,43,Jimmie Johnson,1,Chevrolet,1.0,P,400,4538042.0,157.356,9,38,118.704,6,https://www.racing-reference.info/race-results/2009_AAA_400/W
+280,280,2009,29,2009-10-04,Kansas,43,Tony Stewart,5,Chevrolet,1.5,P,401,5349180.0,175.758,6,23,137.144,26,https://www.racing-reference.info/race-results/2009_Price_Chopper_400_Presented_by_Kraft_Foods/W
+281,281,2009,30,2009-10-11,Fontana,43,Jimmie Johnson,3,Chevrolet,2.0,P,500,5366182.0,183.87,8,30,143.908,29,https://www.racing-reference.info/race-results/2009_Pepsi_500/W
+282,282,2009,31,2009-10-17,Charlotte,43,Jimmie Johnson,1,Chevrolet,1.5,P,501,4589608.0,192.376,10,42,137.658,22,https://www.racing-reference.info/race-results/2009_NASCAR_Banking_500_Only_From_Bank_of_America/W
+283,283,2009,32,2009-10-25,Martinsville,43,Denny Hamlin,17,Toyota,0.526,P,264,4306070.0,96.795,15,77,73.633,21,https://www.racing-reference.info/race-results/2009_Tums_Fast_Relief_500/W
+284,284,2009,33,2009-11-01,Talladega,43,Jamie McMurray,22,Ford,2.66,P,508,4724853.0,,6,23,157.213,60,https://www.racing-reference.info/race-results/2009_AMP_Energy_500/W
+285,285,2009,34,2009-11-08,Fort Worth,43,Kurt Busch,3,Dodge,1.5,P,501,6392225.0,191.117,5,26,147.137,13,https://www.racing-reference.info/race-results/2009_Dickies_500/W
+286,286,2009,35,2009-11-15,Phoenix,43,Jimmie Johnson,3,Chevrolet,1.0,P,312,4416304.0,135.12,4,23,110.486,9,https://www.racing-reference.info/race-results/2009_Checker_O%27Reilly_Auto_Parts_500/W
+287,287,2009,36,2009-11-22,Homestead,43,Denny Hamlin,38,Toyota,1.5,P,401,4662766.0,173.919,7,31,126.986,18,https://www.racing-reference.info/race-results/2009_Ford_400/W
+288,288,2010,1,2010-02-14,Daytona,43,Jamie McMurray,13,Chevrolet,2.5,P,520,16280466.0,191.188,9,40,137.284,52,https://www.racing-reference.info/race-results/2010_Daytona_500/W
+289,289,2010,2,2010-02-21,Fontana,43,Jimmie Johnson,7,Chevrolet,2.0,P,500,5240654.0,183.744,6,30,141.911,26,https://www.racing-reference.info/race-results/2010_Auto_Club_500/W
+290,290,2010,3,2010-02-28,Las Vegas,43,Jimmie Johnson,20,Chevrolet,1.5,P,401,5492793.0,188.719,7,29,141.45,18,https://www.racing-reference.info/race-results/2010_Shelby_American/W
+291,291,2010,4,2010-03-07,Atlanta,43,Kurt Busch,11,Dodge,1.54,P,525,4292301.0,192.761,11,53,131.294,31,https://www.racing-reference.info/race-results/2010_Kobalt_Tools_500/W
+292,292,2010,5,2010-03-21,Bristol,43,Jimmie Johnson,4,Chevrolet,0.533,P,267,4773304.0,124.63,10,103,79.618,29,https://www.racing-reference.info/race-results/2010_Food_City_500/W
+293,293,2010,6,2010-03-29,Martinsville,43,Denny Hamlin,19,Toyota,0.526,P,267,4256308.0,,13,79,73.18,24,https://www.racing-reference.info/race-results/2010_Goody%27s_Fast_Pain_Relief_500/W
+294,294,2010,7,2010-04-10,Phoenix,43,Ryan Newman,14,Chevrolet,1.0,P,378,4608604.0,134.675,9,59,99.372,20,https://www.racing-reference.info/race-results/2010_Subway_Fresh_Fit_600/W
+295,295,2010,8,2010-04-19,Fort Worth,43,Denny Hamlin,29,Toyota,1.5,P,501,6196462.0,191.327,7,32,146.23,29,https://www.racing-reference.info/race-results/2010_Samsung_Mobile_500/W
+296,296,2010,9,2010-04-25,Talladega,43,Kevin Harvick,4,Chevrolet,2.66,P,532,5209442.0,,8,32,150.59,88,https://www.racing-reference.info/race-results/2010_Aaron%27s_499/W
+297,297,2010,10,2010-05-01,Richmond,43,Kyle Busch,1,Toyota,0.75,P,300,4364236.0,127.077,6,37,99.567,12,https://www.racing-reference.info/race-results/2010_Crown_Royal_Presents_the_Heath_Calhoun_400/W
+298,298,2010,11,2010-05-08,Darlington,43,Denny Hamlin,8,Toyota,1.366,P,501,4829851.0,180.37,11,56,126.605,20,https://www.racing-reference.info/race-results/2010_Showtime_Southern_500/W
+299,299,2010,12,2010-05-16,Dover,43,Kyle Busch,4,Toyota,1.0,P,400,5026909.0,157.315,5,24,128.79,20,https://www.racing-reference.info/race-results/2010_Autism_Speaks_400_Presented_by_Hershey%27s/W
+300,300,2010,13,2010-05-30,Charlotte,43,Kurt Busch,2,Dodge,1.5,P,600,5653815.0,187.546,8,34,144.966,33,https://www.racing-reference.info/race-results/2010_Coca-Cola_600/W
+301,301,2010,14,2010-06-06,Pocono,43,Denny Hamlin,5,Toyota,2.5,P,510,4284518.0,169.485,8,27,136.303,14,https://www.racing-reference.info/race-results/2010_Gillette_Fusion_ProGlide_500_Presented_by_Target/W
+302,302,2010,15,2010-06-13,Michigan,43,Denny Hamlin,7,Toyota,2.0,P,400,4448849.0,189.984,4,14,156.386,18,https://www.racing-reference.info/race-results/2010_Heluva_Good_Sour_Cream_Dips_400/W
+303,303,2010,16,2010-06-20,Sonoma,43,Jimmie Johnson,2,Chevrolet,1.99,R,219,4805478.0,93.893,7,14,74.357,12,https://www.racing-reference.info/race-results/2010_Toyota_Save_Mart_350/W
+304,304,2010,17,2010-06-27,Loudon,43,Jimmie Johnson,10,Chevrolet,1.058,P,318,4561260.0,132.337,4,19,113.308,14,https://www.racing-reference.info/race-results/2010_Lenox_Industrial_Tools_301/W
+305,305,2010,18,2010-07-03,Daytona,43,Kevin Harvick,1,Chevrolet,2.5,P,415,5353245.0,,9,37,130.814,47,https://www.racing-reference.info/race-results/2010_Coke_Zero_400_Powered_by_Coca-Cola/W
+306,306,2010,19,2010-07-10,Chicago,43,David Reutimann,7,Toyota,1.5,P,401,5242908.0,183.542,4,21,145.138,10,https://www.racing-reference.info/race-results/2010_LifeLock.com_400/W
+307,307,2010,20,2010-07-25,Indianapolis,43,Jamie McMurray,4,Chevrolet,2.5,P,400,8055895.0,182.253,6,25,136.054,14,https://www.racing-reference.info/race-results/2010_Brickyard_400/W
+308,308,2010,21,2010-08-01,Pocono,43,Greg Biffle,12,Ford,2.5,P,500,4284518.0,171.393,5,31,132.246,19,https://www.racing-reference.info/race-results/2010_Sunoco_Red_Cross_Pennsylvania_500/W
+309,309,2010,22,2010-08-08,Watkins Glen,43,Juan Pablo Montoya,3,Chevrolet,2.45,R,221,4170595.0,124.432,5,13,91.96,10,https://www.racing-reference.info/race-results/2010_Heluva_Good_Sour_Cream_Dips_at_The_Glen/W
+310,310,2010,23,2010-08-15,Michigan,43,Kevin Harvick,8,Chevrolet,2.0,P,400,4444116.0,187.183,5,25,144.029,17,https://www.racing-reference.info/race-results/2010_Carfax_400/W
+311,311,2010,24,2010-08-21,Bristol,43,Kyle Busch,19,Toyota,0.533,P,267,5383905.0,123.475,7,39,99.071,15,https://www.racing-reference.info/race-results/2010_Irwin_Tools_Night_Race/W
+312,312,2010,25,2010-09-05,Atlanta,43,Tony Stewart,5,Chevrolet,1.54,P,501,5322422.0,187.38,8,53,129.041,22,https://www.racing-reference.info/race-results/2010_Emory_Healthcare_500/W
+313,313,2010,26,2010-09-11,Richmond,43,Denny Hamlin,14,Toyota,0.75,P,300,4379963.0,127.762,3,28,104.096,14,https://www.racing-reference.info/race-results/2010_Air_Guard_400/W
+314,314,2010,27,2010-09-19,Loudon,43,Clint Bowyer,2,Chevrolet,1.058,P,317,4559260.0,133.572,8,34,106.769,21,https://www.racing-reference.info/race-results/2010_Sylvania_300/W
+315,315,2010,28,2010-09-26,Dover,43,Jimmie Johnson,1,Chevrolet,1.0,P,400,4441372.0,155.736,4,19,131.543,16,https://www.racing-reference.info/race-results/2010_AAA_400/W
+316,316,2010,29,2010-10-03,Kansas,43,Greg Biffle,5,Ford,1.5,P,401,5242908.0,174.644,5,24,138.077,20,https://www.racing-reference.info/race-results/2010_Price_Chopper_400_Presented_by_Kraft_Foods/W
+317,317,2010,30,2010-10-10,Fontana,43,Tony Stewart,22,Chevrolet,2.0,P,400,4573915.0,185.285,9,36,131.953,23,https://www.racing-reference.info/race-results/2010_Pepsi_Max_400/W
+318,318,2010,31,2010-10-16,Charlotte,43,Jamie McMurray,27,Chevrolet,1.5,P,501,4445482.0,191.544,9,39,140.391,27,https://www.racing-reference.info/race-results/2010_Bank_of_America_500/W
+319,319,2010,32,2010-10-24,Martinsville,43,Denny Hamlin,1,Toyota,0.526,P,263,4230598.0,97.018,15,90,71.619,24,https://www.racing-reference.info/race-results/2010_Tums_Fast_Relief_500/W
+320,320,2010,33,2010-10-31,Talladega,43,Clint Bowyer,2,Chevrolet,2.66,P,500,4614703.0,184.64,6,19,163.618,87,https://www.racing-reference.info/race-results/2010_Amp_Energy_Juice_500/W
+321,321,2010,34,2010-11-07,Fort Worth,43,Denny Hamlin,30,Toyota,1.5,P,501,6108138.0,195.397,9,40,140.456,33,https://www.racing-reference.info/race-results/2010_AAA_Texas_500/W
+322,322,2010,35,2010-11-14,Phoenix,43,Carl Edwards,1,Ford,1.0,P,312,4329809.0,136.389,5,25,110.758,13,https://www.racing-reference.info/race-results/2010_Kobalt_Tools_500_%28November%29/W
+323,323,2010,36,2010-11-21,Homestead,43,Carl Edwards,2,Ford,1.5,P,401,4553625.0,176.904,10,41,126.585,22,https://www.racing-reference.info/race-results/2010_Ford_400/W
+324,324,2011,1,2011-02-20,Daytona,43,Trevor Bayne,32,Ford,2.5,P,520,16649729.0,186.089,16,60,130.326,74,https://www.racing-reference.info/race-results/2011_Daytona_500/W
+325,325,2011,2,2011-02-27,Phoenix,43,Jeff Gordon,20,Chevrolet,1.0,P,312,4324824.0,137.279,8,43,102.961,28,https://www.racing-reference.info/race-results/2011_Subway_Fresh_Fit_500/W
+326,326,2011,3,2011-03-06,Las Vegas,43,Carl Edwards,3,Ford,1.5,P,401,5512356.0,188.884,7,35,135.508,21,https://www.racing-reference.info/race-results/2011_Kobalt_Tools_400/W
+327,327,2011,4,2011-03-20,Bristol,43,Kyle Busch,12,Toyota,0.533,P,267,4778416.0,128.014,10,57,91.941,17,https://www.racing-reference.info/race-results/2011_Jeff_Byrd_500_Presented_by_Food_City/W
+328,328,2011,5,2011-03-27,Fontana,43,Kevin Harvick,24,Chevrolet,2.0,P,400,5036976.0,184.653,4,16,150.849,18,https://www.racing-reference.info/race-results/2011_Auto_Club_400/W
+329,329,2011,6,2011-04-03,Martinsville,43,Kevin Harvick,9,Chevrolet,0.526,P,263,4295270.0,96.509,11,72,74.195,31,https://www.racing-reference.info/race-results/2011_Goodys_Fast_Relief_500/W
+330,330,2011,7,2011-04-09,Fort Worth,43,Matt Kenseth,4,Ford,1.5,P,501,6178941.0,189.82,5,24,149.231,31,https://www.racing-reference.info/race-results/2011_Samsung_Mobile_500/W
+331,331,2011,8,2011-04-17,Talladega,43,Jimmie Johnson,2,Chevrolet,2.66,P,500,5239918.0,178.248,6,24,156.261,88,https://www.racing-reference.info/race-results/2011_Aarons_499/W
+332,332,2011,9,2011-04-30,Richmond,43,Kyle Busch,20,Toyota,0.75,P,300,4380300.0,128.639,8,60,95.28,14,https://www.racing-reference.info/race-results/2011_Crown_Royal_Presents_the_Matthew_and_Daniel_Hansen_400/W
+333,333,2011,10,2011-05-07,Darlington,43,Regan Smith,23,Chevrolet,1.366,P,505,4871561.0,181.254,11,46,129.678,21,https://www.racing-reference.info/race-results/2011_Showtime_Southern_500/W
+334,334,2011,11,2011-05-15,Dover,43,Matt Kenseth,24,Ford,1.0,P,400,5052965.0,,6,28,125.578,23,https://www.racing-reference.info/race-results/2011_FedEx_400_Benefitting_Autism_Speaks/W
+335,335,2011,12,2011-05-29,Charlotte,43,Kevin Harvick,28,Chevrolet,1.5,P,603,5654327.0,192.089,14,64,132.414,38,https://www.racing-reference.info/race-results/2011_Coca-Cola_600/W
+336,336,2011,13,2011-06-05,Kansas,43,Brad Keselowski,25,Dodge,1.5,P,401,4579497.0,174.752,5,22,137.184,17,https://www.racing-reference.info/race-results/2011_STP_400/W
+337,337,2011,14,2011-06-12,Pocono,43,Jeff Gordon,3,Chevrolet,2.5,P,500,4304570.0,171.579,4,14,145.384,18,https://www.racing-reference.info/race-results/2011_5-Hour_Energy_500/W
+338,338,2011,15,2011-06-19,Michigan,43,Denny Hamlin,10,Toyota,2.0,P,400,4460684.0,188.699,5,18,153.029,21,https://www.racing-reference.info/race-results/2011_Heluva_Good_Sour_Cream_Dips_400/W
+339,339,2011,16,2011-06-26,Sonoma,43,Kurt Busch,11,Dodge,1.99,R,219,4849906.0,93.256,5,17,75.411,12,https://www.racing-reference.info/race-results/2011_Toyota_Save_Mart_350/W
+340,340,2011,17,2011-07-02,Daytona,43,David Ragan,5,Ford,2.5,P,425,5379500.0,182.065,6,21,159.491,57,https://www.racing-reference.info/race-results/2011_Coke_Zero_400_Powered_by_Coca-Cola/W
+341,341,2011,18,2011-07-09,Kentucky,43,Kyle Busch,1,Toyota,1.5,P,401,4315664.0,,6,32,137.314,20,https://www.racing-reference.info/race-results/2011_Quaker_State_400/W
+342,342,2011,19,2011-07-17,Loudon,43,Ryan Newman,1,Chevrolet,1.058,P,318,4567474.0,135.232,10,44,104.1,21,https://www.racing-reference.info/race-results/2011_Lenox_Industrial_Tools_301/W
+343,343,2011,20,2011-07-31,Indianapolis,43,Paul Menard,15,Chevrolet,2.5,P,400,7984503.0,182.994,5,22,140.762,22,https://www.racing-reference.info/race-results/2011_Brickyard_400/W
+344,344,2011,21,2011-08-07,Pocono,43,Brad Keselowski,13,Dodge,2.5,P,500,4304570.0,172.055,5,21,137.878,23,https://www.racing-reference.info/race-results/2011_Good_Sam_RV_Insurance_500/W
+345,345,2011,22,2011-08-15,Watkins Glen,43,Marcos Ambrose,3,Ford,2.45,R,225,4196342.0,126.421,5,14,99.417,14,https://www.racing-reference.info/race-results/2011_Heluva_Good_Sour_Cream_Dips_at_The_Glen/W
+346,346,2011,23,2011-08-21,Michigan,43,Kyle Busch,17,Toyota,2.0,P,406,4458087.0,190.345,5,21,150.898,20,https://www.racing-reference.info/race-results/2011_Pure_Michigan_400/W
+347,347,2011,24,2011-08-27,Bristol,43,Brad Keselowski,8,Dodge,0.533,P,267,5399412.0,122.811,6,42,96.753,22,https://www.racing-reference.info/race-results/2011_Irwin_Tools_Night_Race/W
+348,348,2011,25,2011-09-06,Atlanta,43,Jeff Gordon,5,Chevrolet,1.54,P,501,5341003.0,186.196,9,64,124.623,35,https://www.racing-reference.info/race-results/2011_AdvoCare_500/W
+349,349,2011,26,2011-09-10,Richmond,43,Kevin Harvick,7,Chevrolet,0.75,P,300,4395242.0,127.383,15,85,89.91,11,https://www.racing-reference.info/race-results/2011_Wonderful_Pistachios_400/W
+350,350,2011,27,2011-09-19,Chicago,43,Tony Stewart,26,Chevrolet,1.5,P,401,5205909.0,183.243,6,25,143.306,22,https://www.racing-reference.info/race-results/2011_GEICO_400/W
+351,351,2011,28,2011-09-25,Loudon,43,Tony Stewart,20,Chevrolet,1.058,P,317,4567474.0,135.002,3,14,116.679,19,https://www.racing-reference.info/race-results/2011_Sylvania_300/W
+352,352,2011,29,2011-10-02,Dover,43,Kurt Busch,2,Dodge,1.0,P,400,4453581.0,159.004,10,44,119.413,24,https://www.racing-reference.info/race-results/2011_AAA_400/W
+353,353,2011,30,2011-10-09,Kansas,43,Jimmie Johnson,19,Chevrolet,1.5,P,408,5205909.0,174.887,6,25,137.181,19,https://www.racing-reference.info/race-results/2011_Hollywood_Casino_400/W
+354,354,2011,31,2011-10-15,Charlotte,43,Matt Kenseth,2,Ford,1.5,P,501,4497670.0,191.959,8,34,146.194,16,https://www.racing-reference.info/race-results/2011_Bank_of_America_500/W
+355,355,2011,32,2011-10-23,Talladega,43,Clint Bowyer,3,Chevrolet,2.66,P,500,4620146.0,181.367,9,37,143.404,72,https://www.racing-reference.info/race-results/2011_Good_Sam_Club_500/W
+356,356,2011,33,2011-10-30,Martinsville,43,Tony Stewart,4,Chevrolet,0.526,P,263,4243646.0,,18,108,68.648,23,https://www.racing-reference.info/race-results/2011_Tums_Fast_Relief_500/W
+357,357,2011,34,2011-11-06,Fort Worth,43,Tony Stewart,5,Chevrolet,1.5,P,501,6038908.0,193.736,5,21,152.705,23,https://www.racing-reference.info/race-results/2011_AAA_Texas_500/W
+358,358,2011,35,2011-11-13,Phoenix,43,Kasey Kahne,10,Toyota,1.0,P,312,4347996.0,137.101,8,30,112.918,14,https://www.racing-reference.info/race-results/2011_Kobalt_Tools_500/W
+359,359,2011,36,2011-11-20,Homestead,43,Tony Stewart,15,Chevrolet,1.5,P,401,4558721.0,175.467,8,54,114.976,26,https://www.racing-reference.info/race-results/2011_Ford_400/W
+360,360,2012,1,2012-02-27,Daytona,43,Matt Kenseth,4,Ford,2.5,P,505,17277409.0,194.738,10,42,140.256,25,https://www.racing-reference.info/race-results/2012_Daytona_500/W
+361,361,2012,2,2012-03-04,Phoenix,43,Denny Hamlin,13,Toyota,1.0,P,312,4414682.0,136.815,7,37,110.085,25,https://www.racing-reference.info/race-results/2012_Subway_Fresh_Fit_500/W
+362,362,2012,3,2012-03-11,Las Vegas,43,Tony Stewart,7,Chevrolet,1.5,P,401,5624358.0,190.456,8,33,137.524,16,https://www.racing-reference.info/race-results/2012_Kobalt_Tools_400/W
+363,363,2012,4,2012-03-18,Bristol,43,Brad Keselowski,5,Dodge,0.533,P,267,4866774.0,125.215,5,49,93.037,13,https://www.racing-reference.info/race-results/2012_Food_City_500/W
+364,364,2012,5,2012-03-25,Fontana,43,Tony Stewart,9,Chevrolet,2.0,P,258,5147478.0,186.403,1,5,160.166,9,https://www.racing-reference.info/race-results/2012_Auto_Club_400/W
+365,365,2012,6,2012-04-01,Martinsville,43,Ryan Newman,5,Chevrolet,0.526,P,271,4385128.0,97.128,7,56,78.823,19,https://www.racing-reference.info/race-results/2012_Goodys_Fast_Relief_500/W
+366,366,2012,7,2012-04-14,Fort Worth,43,Greg Biffle,3,Ford,1.5,P,501,6339443.0,190.369,2,10,160.577,18,https://www.racing-reference.info/race-results/2012_Samsung_Mobile_500/W
+367,367,2012,8,2012-04-22,Kansas,43,Denny Hamlin,4,Toyota,1.5,P,401,4667855.0,175.993,3,18,144.122,14,https://www.racing-reference.info/race-results/2012_STP_400/W
+368,368,2012,9,2012-04-28,Richmond,43,Kyle Busch,5,Toyota,0.75,P,300,4470158.0,128.327,5,31,105.202,14,https://www.racing-reference.info/race-results/2012_Capital_City_400_Presented_by_Virginia_is_for_Lovers/W
+369,369,2012,10,2012-05-06,Talladega,43,Brad Keselowski,13,Dodge,2.66,P,516,5350420.0,191.623,5,24,160.192,34,https://www.racing-reference.info/race-results/2012_Aarons_499/W
+370,370,2012,11,2012-05-12,Darlington,43,Jimmie Johnson,2,Chevrolet,1.366,P,503,4983563.0,180.257,8,38,133.802,22,https://www.racing-reference.info/race-results/2012_Bojangles_Southern_500/W
+371,371,2012,12,2012-05-27,Charlotte,43,Kasey Kahne,7,Chevrolet,1.5,P,600,5760429.0,192.94,5,23,155.687,31,https://www.racing-reference.info/race-results/2012_Coca-Cola_600/W
+372,372,2012,13,2012-06-03,Dover,43,Jimmie Johnson,2,Chevrolet,1.0,P,400,5172267.0,158.297,7,32,122.835,17,https://www.racing-reference.info/race-results/2012_FedEx_400_Benefiting_Autism_Speaks/W
+373,373,2012,14,2012-06-10,Pocono,43,Joey Logano,1,Toyota,2.5,P,400,4392928.0,179.598,7,35,131.004,19,https://www.racing-reference.info/race-results/2012_Pocono_400/W
+374,374,2012,15,2012-06-17,Michigan,43,"Dale Earnhardt, Jr.",17,Chevrolet,2.0,P,400,4549042.0,203.241,8,39,139.144,23,https://www.racing-reference.info/race-results/2012_Quicken_Loans_400/W
+375,375,2012,16,2012-06-24,Sonoma,43,Clint Bowyer,6,Toyota,1.99,R,223,4961908.0,95.262,2,7,83.624,8,https://www.racing-reference.info/race-results/2012_Toyota_Save_Mart_350/W
+376,376,2012,17,2012-06-30,Kentucky,43,Brad Keselowski,8,Dodge,1.5,P,401,4411322.0,181.818,4,24,145.607,17,https://www.racing-reference.info/race-results/2012_Quaker_State_400/W
+377,377,2012,18,2012-07-07,Daytona,43,Tony Stewart,42,Chevrolet,2.5,P,400,5490002.0,192.386,6,23,157.653,12,https://www.racing-reference.info/race-results/2012_Coke_Zero_400/W
+378,378,2012,19,2012-07-15,Loudon,43,Kasey Kahne,2,Chevrolet,1.058,P,318,4657332.0,133.417,3,15,116.226,16,https://www.racing-reference.info/race-results/2012_Lenox_Industrial_Tools_301/W
+379,379,2012,20,2012-07-29,Indianapolis,43,Jimmie Johnson,6,Chevrolet,2.5,P,400,8119098.0,182.763,5,25,137.68,17,https://www.racing-reference.info/race-results/2012_Crown_Royal_Presents_the_Curtiss_Shaver_400/W
+380,380,2012,21,2012-08-05,Pocono,43,Jeff Gordon,27,Chevrolet,2.5,P,245,4392928.0,176.043,3,14,139.249,13,https://www.racing-reference.info/race-results/2012_Pennsylvania_400/W
+381,381,2012,22,2012-08-12,Watkins Glen,43,Marcos Ambrose,5,Ford,2.45,R,221,4336200.0,127.02,4,13,98.145,10,https://www.racing-reference.info/race-results/2012_Finger_Lakes_355_at_the_Glen/W
+382,382,2012,23,2012-08-19,Michigan,43,Greg Biffle,13,Ford,2.0,P,402,4596445.0,199.706,8,35,144.662,26,https://www.racing-reference.info/race-results/2012_Pure_Michigan_400/W
+383,383,2012,24,2012-08-25,Bristol,43,Denny Hamlin,8,Toyota,0.533,P,267,5511414.0,,13,87,84.402,22,https://www.racing-reference.info/race-results/2012_Irwin_Tools_Night_Race/W
+384,384,2012,25,2012-09-02,Atlanta,43,Denny Hamlin,7,Toyota,1.54,P,504,5451505.0,186.121,6,31,142.02,18,https://www.racing-reference.info/race-results/2012_AdvoCare_500/W
+385,385,2012,26,2012-09-08,Richmond,43,Clint Bowyer,4,Toyota,0.75,P,300,4485100.0,127.023,6,41,100.019,17,https://www.racing-reference.info/race-results/2012_Federated_Auto_Parts_400/W
+386,386,2012,27,2012-09-16,Chicago,43,Brad Keselowski,13,Dodge,1.5,P,401,5317911.0,182.865,4,23,143.363,16,https://www.racing-reference.info/race-results/2012_GEICO_400/W
+387,387,2012,28,2012-09-23,Loudon,43,Denny Hamlin,32,Toyota,1.058,P,317,4657332.0,134.911,4,17,116.81,17,https://www.racing-reference.info/race-results/2012_Sylvania_300/W
+388,388,2012,29,2012-09-30,Dover,43,Brad Keselowski,10,Dodge,1.0,P,400,4543439.0,159.299,5,28,125.076,11,https://www.racing-reference.info/race-results/2012_AAA_400/W
+389,389,2012,30,2012-10-07,Talladega,43,Matt Kenseth,15,Ford,2.66,P,503,4760004.0,191.455,5,17,171.194,54,https://www.racing-reference.info/race-results/2012_Good_Sam_Roadside_Assistance_500/W
+390,390,2012,31,2012-10-13,Charlotte,43,Clint Bowyer,4,Toyota,1.5,P,501,4604528.0,193.708,5,23,154.935,20,https://www.racing-reference.info/race-results/2012_Bank_of_America_500/W
+391,391,2012,32,2012-10-21,Kansas,43,Matt Kenseth,12,Ford,1.5,P,401,5366411.0,191.36,14,66,115.086,16,https://www.racing-reference.info/race-results/2012_Hollywood_Casino_400/W
+392,392,2012,33,2012-10-28,Martinsville,43,Jimmie Johnson,1,Chevrolet,0.526,P,263,4345104.0,97.598,11,64,77.677,22,https://www.racing-reference.info/race-results/2012_Tums_Fast_Relief_500/W
+393,393,2012,34,2012-11-04,Fort Worth,43,Jimmie Johnson,1,Chevrolet,1.5,P,503,6127266.0,191.076,9,49,136.117,20,https://www.racing-reference.info/race-results/2012_AAA_Texas_500/W
+394,394,2012,35,2012-11-11,Phoenix,43,Kevin Harvick,19,Chevrolet,1.0,P,319,4439354.0,138.766,8,38,111.182,11,https://www.racing-reference.info/race-results/2012_AdvoCare_500_%28November%29/W
+395,395,2012,36,2012-11-18,Homestead,43,Jeff Gordon,15,Chevrolet,1.5,P,401,4648579.0,176.056,3,17,142.245,19,https://www.racing-reference.info/race-results/2012_Ford_EcoBoost_400/W
+396,396,2013,1,2013-02-24,Daytona,43,Jimmie Johnson,9,Chevrolet,2.5,P,500,17673977.0,196.434,6,24,159.25,28,https://www.racing-reference.info/race-results/2013_Daytona_500/W
+397,397,2013,2,2013-03-03,Phoenix,43,Carl Edwards,15,Ford,1.0,P,316,4585792.0,138.074,8,43,105.187,12,https://www.racing-reference.info/race-results/2013_Subway_Fresh_Fit_500/W
+398,398,2013,3,2013-03-10,Las Vegas,43,Matt Kenseth,18,Toyota,1.5,P,401,5767609.0,,5,25,146.287,22,https://www.racing-reference.info/race-results/2013_Kobalt_Tools_400/W
+399,399,2013,4,2013-03-17,Bristol,43,Kasey Kahne,2,Chevrolet,0.533,P,267,4983720.0,129.535,10,66,92.206,17,https://www.racing-reference.info/race-results/2013_Food_City_500/W
+400,400,2013,5,2013-03-24,Fontana,43,Kyle Busch,4,Toyota,2.0,P,400,5293476.0,187.451,9,46,135.351,17,https://www.racing-reference.info/race-results/2013_Auto_Club_400/W
+401,401,2013,6,2013-04-07,Martinsville,43,Jimmie Johnson,1,Chevrolet,0.526,P,263,4507458.0,98.4,12,85,72.066,12,https://www.racing-reference.info/race-results/2013_STP_Gas_Booster_500/W
+402,402,2013,7,2013-04-13,Fort Worth,43,Kyle Busch,1,Toyota,1.5,P,501,6441660.0,196.299,7,36,144.751,18,https://www.racing-reference.info/race-results/2013_NRA_500/W
+403,403,2013,8,2013-04-21,Kansas,43,Matt Kenseth,1,Toyota,1.5,P,401,4782812.0,191.864,8,40,133.611,13,https://www.racing-reference.info/race-results/2013_STP_400/W
+404,404,2013,9,2013-04-27,Richmond,43,Kevin Harvick,17,Chevrolet,0.75,P,305,4581622.0,130.334,11,75,92.141,10,https://www.racing-reference.info/race-results/2013_Toyota_Owners_400/W
+405,405,2013,10,2013-05-05,Talladega,43,David Ragan,19,Ford,2.66,P,511,5531372.0,,5,31,148.729,30,https://www.racing-reference.info/race-results/2013_Aarons_499/W
+406,406,2013,11,2013-05-11,Darlington,43,Matt Kenseth,7,Toyota,1.366,P,501,5111721.0,181.918,5,25,141.383,9,https://www.racing-reference.info/race-results/2013_Bojangles_Southern_500/W
+407,407,2013,12,2013-05-26,Charlotte,43,Kevin Harvick,15,Chevrolet,1.5,P,600,5913315.0,195.624,11,61,130.521,24,https://www.racing-reference.info/race-results/2013_Coca-Cola_600/W
+408,408,2013,13,2013-06-02,Dover,43,Tony Stewart,22,Chevrolet,1.0,P,400,5311797.0,157.978,7,32,123.172,21,https://www.racing-reference.info/race-results/2013_FedEx_400_Benefitting_Autism_Speaks/W
+409,409,2013,14,2013-06-09,Pocono,43,Jimmie Johnson,1,Chevrolet,2.5,P,400,4506410.0,,6,19,144.202,12,https://www.racing-reference.info/race-results/2013_Party_in_the_Poconos_400_Presented_by_Walmart/W
+410,410,2013,15,2013-06-16,Michigan,43,Greg Biffle,19,Ford,2.0,P,400,4722811.0,202.452,8,38,139.278,22,https://www.racing-reference.info/race-results/2013_Quicken_Loans_400/W
+411,411,2013,16,2013-06-23,Sonoma,43,"Martin Truex, Jr.",14,Toyota,1.99,R,219,5104334.0,94.986,7,19,76.658,10,https://www.racing-reference.info/race-results/2013_Toyota_Save_Mart_350/W
+412,412,2013,17,2013-06-30,Kentucky,43,Matt Kenseth,16,Toyota,1.5,P,401,4532198.0,183.636,10,42,131.948,11,https://www.racing-reference.info/race-results/2013_Quaker_State_400/W
+413,413,2013,18,2013-07-06,Daytona,43,Jimmie Johnson,8,Chevrolet,2.5,P,403,5639224.0,193.723,6,27,154.313,18,https://www.racing-reference.info/race-results/2013_Coke_Zero_400/W
+414,414,2013,19,2013-07-14,Loudon,43,Brian Vickers,13,Toyota,1.058,P,320,4780668.0,135.922,12,58,98.735,10,https://www.racing-reference.info/race-results/2013_Camping_World_RV_Sales_301/W
+415,415,2013,20,2013-07-28,Indianapolis,43,Ryan Newman,1,Chevrolet,2.5,P,400,8309467.0,187.531,3,14,153.485,20,https://www.racing-reference.info/race-results/2013_Crown_Royal_Presents_The_Samuel_Deeds_400/W
+416,416,2013,21,2013-08-04,Pocono,43,Kasey Kahne,18,Chevrolet,2.5,P,400,4515135.0,180.654,9,35,129.009,27,https://www.racing-reference.info/race-results/2013_GoBowling.com_400/W
+417,417,2013,22,2013-08-11,Watkins Glen,43,Kyle Busch,5,Toyota,2.45,R,221,4405826.0,128.241,8,21,87.001,5,https://www.racing-reference.info/race-results/2013_Cheez-It_355_at_the_Glen/W
+418,418,2013,23,2013-08-18,Michigan,43,Joey Logano,1,Ford,2.0,P,400,4720188.0,203.949,9,34,144.593,20,https://www.racing-reference.info/race-results/2013_Pure_Michigan_400/W
+419,419,2013,24,2013-08-24,Bristol,43,Matt Kenseth,5,Toyota,0.533,P,267,5659335.0,128.969,11,74,90.279,16,https://www.racing-reference.info/race-results/2013_Irwin_Tools_Night_Race/W
+420,420,2013,25,2013-09-01,Atlanta,43,Kyle Busch,9,Toyota,1.54,P,501,5600342.0,189.688,9,47,135.128,28,https://www.racing-reference.info/race-results/2013_AdvoCare_500/W
+421,421,2013,26,2013-09-07,Richmond,43,Carl Edwards,26,Ford,0.75,P,300,4656714.0,130.599,5,29,105.028,17,https://www.racing-reference.info/race-results/2013_Federated_Auto_Parts_400/W
+422,422,2013,27,2013-09-15,Chicago,43,Matt Kenseth,10,Toyota,1.5,P,401,5463897.0,189.414,9,46,125.855,25,https://www.racing-reference.info/race-results/2013_GEICO_400/W
+423,423,2013,28,2013-09-22,Loudon,43,Matt Kenseth,9,Toyota,1.058,P,317,4780668.0,136.497,7,37,107.573,19,https://www.racing-reference.info/race-results/2013_Sylvania_300/W
+424,424,2013,29,2013-09-29,Dover,43,Jimmie Johnson,8,Chevrolet,1.0,P,400,4665637.0,161.849,4,21,130.909,19,https://www.racing-reference.info/race-results/2013_AAA_400/W
+425,425,2013,30,2013-10-06,Kansas,43,Kevin Harvick,1,Chevrolet,1.5,P,401,5463897.0,187.526,15,71,114.884,24,https://www.racing-reference.info/race-results/2013_Hollywood_Casino_400/W
+426,426,2013,31,2013-10-12,Charlotte,43,Brad Keselowski,23,Ford,1.5,P,501,4760167.0,194.308,4,20,158.308,24,https://www.racing-reference.info/race-results/2013_Bank_of_America_500/W
+427,427,2013,32,2013-10-20,Talladega,43,Jamie McMurray,9,Chevrolet,2.66,P,500,4825468.0,,3,10,178.795,52,https://www.racing-reference.info/race-results/2013_Camping_World_RV_Sales_500/W
+428,428,2013,33,2013-10-27,Martinsville,43,Jeff Gordon,9,Chevrolet,0.526,P,263,4465319.0,99.595,17,111,70.337,15,https://www.racing-reference.info/race-results/2013_Goodys_Headache_Relief_Shot_500/W
+429,429,2013,34,2013-11-03,Fort Worth,43,Jimmie Johnson,3,Chevrolet,1.5,P,501,6266818.0,196.114,5,26,151.754,28,https://www.racing-reference.info/race-results/2013_AAA_Texas_500/W
+430,430,2013,35,2013-11-10,Phoenix,43,Kevin Harvick,9,Chevrolet,1.0,P,312,4555511.0,139.222,8,49,105.733,23,https://www.racing-reference.info/race-results/2013_AdvoCare_500_%28November%29/W
+431,431,2013,36,2013-11-17,Homestead,43,Denny Hamlin,5,Toyota,1.5,P,401,4773344.0,177.667,8,37,130.693,22,https://www.racing-reference.info/race-results/2013_Ford_EcoBoost_400/W
+432,432,2014,1,2014-02-23,Daytona,43,"Dale Earnhardt, Jr.",9,Chevrolet,2.5,P,500,18092441.0,196.019,7,39,145.29,42,https://www.racing-reference.info/race-results/2014_Daytona_500/W
+433,433,2014,2,2014-03-02,Phoenix,43,Kevin Harvick,13,Chevrolet,1.0,P,312,4583928.0,139.384,8,38,109.229,14,https://www.racing-reference.info/race-results/2014_The_Profit_on_CNBC_500/W
+434,434,2014,3,2014-03-09,Las Vegas,43,Brad Keselowski,2,Ford,1.5,P,401,5894225.0,193.278,4,18,154.633,21,https://www.racing-reference.info/race-results/2014_Kobalt_400/W
+435,435,2014,4,2014-03-16,Bristol,43,Carl Edwards,12,Ford,0.533,P,268,5092056.0,129.991,12,95,84.051,20,https://www.racing-reference.info/race-results/2014_Food_City_500/W
+436,436,2014,5,2014-03-23,Fontana,43,Kyle Busch,14,Toyota,2.0,P,412,5364091.0,187.315,9,42,132.987,35,https://www.racing-reference.info/race-results/2014_Auto_Club_400/W
+437,437,2014,6,2014-03-30,Martinsville,43,Kurt Busch,22,Chevrolet,0.526,P,263,4545594.0,99.674,14,92,72.176,33,https://www.racing-reference.info/race-results/2014_STP_500/W
+438,438,2014,7,2014-04-07,Fort Worth,43,Joey Logano,10,Ford,1.5,P,510,6567476.0,195.454,7,49,134.191,18,https://www.racing-reference.info/race-results/2014_Duck_Commander_500/W
+439,439,2014,8,2014-04-12,Darlington,43,Kevin Harvick,1,Chevrolet,1.366,P,511,5197737.0,183.479,11,50,131.211,22,https://www.racing-reference.info/race-results/2014_Bojangles_Southern_500/W
+440,440,2014,9,2014-04-26,Richmond,43,Joey Logano,17,Ford,0.75,P,300,4689958.0,,9,66,93.369,20,https://www.racing-reference.info/race-results/2014_Toyota_Owners_400/W
+441,441,2014,10,2014-05-04,Talladega,43,Denny Hamlin,34,Toyota,2.66,P,500,5579663.0,198.29,8,31,152.103,48,https://www.racing-reference.info/race-results/2014_Aarons_499/W
+442,442,2014,11,2014-05-10,Kansas,43,Jeff Gordon,13,Chevrolet,1.5,P,401,4829947.0,194.252,8,47,128.149,25,https://www.racing-reference.info/race-results/2014_5-Hour_Energy_400/W
+443,443,2014,12,2014-05-25,Charlotte,43,Jimmie Johnson,1,Chevrolet,1.5,P,600,5994331.0,194.911,8,44,145.484,34,https://www.racing-reference.info/race-results/2014_Coca-Cola_600/W
+444,444,2014,13,2014-06-01,Dover,43,Jimmie Johnson,4,Chevrolet,1.0,P,400,5387613.0,164.444,8,41,117.724,18,https://www.racing-reference.info/race-results/2014_FedEx_400_Benefitting_Autism_Speaks/W
+445,445,2014,14,2014-06-08,Pocono,43,"Dale Earnhardt, Jr.",8,Chevrolet,2.5,P,400,4563471.0,181.415,7,26,139.44,21,https://www.racing-reference.info/race-results/2014_Pocono_400/W
+446,446,2014,15,2014-06-15,Michigan,43,Jimmie Johnson,7,Chevrolet,2.0,P,400,4715147.0,204.557,8,36,143.441,25,https://www.racing-reference.info/race-results/2014_Quicken_Loans_400/W
+447,447,2014,16,2014-06-22,Sonoma,43,Carl Edwards,4,Ford,1.99,R,219,5225150.0,96.35,6,19,76.583,11,https://www.racing-reference.info/race-results/2014_Toyota_Save_Mart_350/W
+448,448,2014,17,2014-06-28,Kentucky,42,Brad Keselowski,1,Ford,1.5,P,401,4571654.0,188.791,6,34,139.723,12,https://www.racing-reference.info/race-results/2014_Quaker_State_400/W
+449,449,2014,18,2014-07-06,Daytona,43,Aric Almirola,15,Ford,2.5,P,280,5760040.0,199.322,6,29,130.014,21,https://www.racing-reference.info/race-results/2014_Coke_Zero_400/W
+450,450,2014,19,2014-07-13,Loudon,43,Brad Keselowski,7,Ford,1.058,P,323,4879004.0,138.13,7,35,108.741,18,https://www.racing-reference.info/race-results/2014_Camping_World_RV_Sales_301/W
+451,451,2014,20,2014-07-27,Indianapolis,43,Jeff Gordon,2,Chevrolet,2.5,P,400,8407725.0,188.47,4,16,150.297,15,https://www.racing-reference.info/race-results/2014_Crown_Royal_Presents_The_John_Wayne_Walding_400/W
+452,452,2014,21,2014-08-03,Pocono,43,"Dale Earnhardt, Jr.",9,Chevrolet,2.5,P,400,4568871.0,183.438,8,35,127.411,15,https://www.racing-reference.info/race-results/2014_GoBowling.com_400/W
+453,453,2014,22,2014-08-10,Watkins Glen,43,A.J. Allmendinger,6,Chevrolet,2.45,R,221,4454162.0,129.466,6,17,90.123,5,https://www.racing-reference.info/race-results/2014_Cheez-It_355_at_the_Glen/W
+454,454,2014,23,2014-08-17,Michigan,43,Jeff Gordon,1,Chevrolet,2.0,P,400,4718524.0,206.558,8,37,141.788,20,https://www.racing-reference.info/race-results/2014_Pure_Michigan_400/W
+455,455,2014,24,2014-08-23,Bristol,43,Joey Logano,5,Ford,0.533,P,267,5774151.0,131.362,9,64,92.965,16,https://www.racing-reference.info/race-results/2014_Irwin_Tools_Night_Race/W
+456,456,2014,25,2014-08-31,Atlanta,43,Kasey Kahne,10,Chevrolet,1.54,P,516,5665158.0,190.398,10,56,131.512,21,https://www.racing-reference.info/race-results/2014_Oral-B_USA_500/W
+457,457,2014,26,2014-09-06,Richmond,43,Brad Keselowski,1,Ford,0.75,P,300,4705250.0,126.618,4,27,104.702,4,https://www.racing-reference.info/race-results/2014_Federated_Auto_Parts_400/W
+458,458,2014,27,2014-09-14,Chicago,43,Brad Keselowski,25,Ford,1.5,P,401,5584713.0,,6,28,142.33,18,https://www.racing-reference.info/race-results/2014_MyAFibStory.com_400/W
+459,459,2014,28,2014-09-21,Loudon,43,Joey Logano,7,Ford,1.058,P,321,4873804.0,140.598,15,63,98.697,10,https://www.racing-reference.info/race-results/2014_Sylvania_300/W
+460,460,2014,29,2014-09-28,Dover,43,Jeff Gordon,6,Chevrolet,1.0,P,400,4707973.0,162.933,5,23,130.541,10,https://www.racing-reference.info/race-results/2014_AAA_400/W
+461,461,2014,30,2014-10-05,Kansas,43,Joey Logano,4,Ford,1.5,P,401,5578713.0,197.621,8,34,141.951,25,https://www.racing-reference.info/race-results/2014_Hollywood_Casino_400/W
+462,462,2014,31,2014-10-11,Charlotte,43,Kevin Harvick,7,Chevrolet,1.5,P,501,4758503.0,197.39,8,39,145.346,32,https://www.racing-reference.info/race-results/2014_Bank_of_America_500/W
+463,463,2014,32,2014-10-19,Talladega,43,Brad Keselowski,5,Ford,2.66,P,516,4927003.0,196.129,6,25,160.302,38,https://www.racing-reference.info/race-results/2014_GEICO_500/W
+464,464,2014,33,2014-10-26,Martinsville,43,"Dale Earnhardt, Jr.",23,Chevrolet,0.526,P,263,4513655.0,99.905,15,105,70.725,24,https://www.racing-reference.info/race-results/2014_Goodys_Headache_Relief_Shot_500/W
+465,465,2014,34,2014-11-02,Fort Worth,43,Jimmie Johnson,3,Chevrolet,1.5,P,512,6315154.0,199.299,13,61,132.239,23,https://www.racing-reference.info/race-results/2014_AAA_Texas_500/W
+466,466,2014,35,2014-11-09,Phoenix,43,Kevin Harvick,3,Chevrolet,1.0,P,312,4608847.0,142.113,12,58,99.991,8,https://www.racing-reference.info/race-results/2014_Quicken_Loans_Race_For_Heroes_500/W
+467,467,2014,36,2014-11-16,Homestead,43,Kevin Harvick,5,Chevrolet,1.5,P,401,4816480.0,180.747,13,52,122.28,18,https://www.racing-reference.info/race-results/2014_Ford_EcoBoost_400/W
+468,468,2015,1,2015-02-22,Daytona,43,Joey Logano,5,Ford,2.5,P,508,18042556.0,201.293,7,26,161.939,27,https://www.racing-reference.info/race-results/2015_Daytona_500/W
+469,469,2015,2,2015-03-01,Atlanta,43,Jimmie Johnson,37,Chevrolet,1.54,P,501,5657096.0,194.683,10,54,131.078,28,https://www.racing-reference.info/race-results/2015_Folds_of_Honor_QuikTrip_500/W
+470,470,2015,3,2015-03-08,Las Vegas,43,Kevin Harvick,18,Chevrolet,1.5,P,401,5833866.0,194.679,6,28,143.677,18,https://www.racing-reference.info/race-results/2015_Kobalt_400/W
+471,471,2015,4,2015-03-15,Phoenix,43,Kevin Harvick,1,Chevrolet,1.0,P,312,4562182.0,140.751,10,53,105.753,8,https://www.racing-reference.info/race-results/2015_CampingWorld.com_500/W
+472,472,2015,5,2015-03-22,Fontana,43,Brad Keselowski,8,Ford,2.0,P,418,5403039.0,185.142,7,31,140.662,19,https://www.racing-reference.info/race-results/2015_Auto_Club_400/W
+473,473,2015,6,2015-03-29,Martinsville,43,Denny Hamlin,15,Toyota,0.526,P,263,4556126.0,98.461,16,112,68.843,31,https://www.racing-reference.info/race-results/2015_STP_500/W
+474,474,2015,7,2015-04-11,Fort Worth,43,Jimmie Johnson,5,Chevrolet,1.5,P,501,6500518.0,193.847,8,40,140.5,29,https://www.racing-reference.info/race-results/2015_Duck_Commander_500/W
+475,475,2015,8,2015-04-19,Bristol,43,Matt Kenseth,1,Toyota,0.533,P,272,5021818.0,128.632,11,117,74.997,21,https://www.racing-reference.info/race-results/2015_Food_City_500_In_Support_of_Steve_Byrnes/W
+476,476,2015,9,2015-04-26,Richmond,43,Kurt Busch,3,Chevrolet,0.75,P,300,4629063.0,127.071,8,53,97.157,12,https://www.racing-reference.info/race-results/2015_Toyota_Owners_400/W
+477,477,2015,10,2015-05-03,Talladega,43,"Dale Earnhardt, Jr.",4,Chevrolet,2.66,P,500,5556002.0,194.793,6,23,159.487,27,https://www.racing-reference.info/race-results/2015_GEICO_500/W
+478,478,2015,11,2015-05-09,Kansas,43,Jimmie Johnson,19,Chevrolet,1.5,P,401,4828280.0,192.397,9,49,125.265,16,https://www.racing-reference.info/race-results/2015_SpongeBob_SquarePants_400/W
+479,479,2015,12,2015-05-24,Charlotte,43,Carl Edwards,3,Toyota,1.5,P,600,5977351.0,194.252,8,39,147.803,22,https://www.racing-reference.info/race-results/2015_Coca-Cola_600/W
+480,480,2015,13,2015-05-31,Dover,43,Jimmie Johnson,14,Chevrolet,1.0,P,405,5381332.0,160.121,7,40,119.547,15,https://www.racing-reference.info/race-results/2015_FedEx_400_Benefitting_Autism_Speaks/W
+481,481,2015,14,2015-06-07,Pocono,43,"Martin Truex, Jr.",3,Chevrolet,2.5,P,400,4552925.0,177.599,8,31,134.266,12,https://www.racing-reference.info/race-results/2015_Axalta_We_Paint_Winners_400/W
+482,482,2015,15,2015-06-14,Michigan,43,Kurt Busch,24,Chevrolet,2.0,P,276,4714455.0,201.992,5,38,116.688,17,https://www.racing-reference.info/race-results/2015_Quicken_Loans_400/W
+483,483,2015,16,2015-06-28,Sonoma,43,Kyle Busch,11,Toyota,1.99,R,219,5176350.0,96.31,5,21,74.774,9,https://www.racing-reference.info/race-results/2015_Toyota_Save_Mart_350/W
+484,484,2015,17,2015-07-05,Daytona,43,"Dale Earnhardt, Jr.",1,Chevrolet,2.5,P,403,5700596.0,,9,43,134.941,22,https://www.racing-reference.info/race-results/2015_Coke_Zero_400/W
+485,485,2015,18,2015-07-11,Kentucky,43,Kyle Busch,9,Toyota,1.5,P,401,4580821.0,,11,49,129.402,13,https://www.racing-reference.info/race-results/2015_Quaker_State_400/W
+486,486,2015,19,2015-07-19,Loudon,43,Kyle Busch,4,Toyota,1.058,P,318,4815856.0,135.164,7,34,108.504,10,https://www.racing-reference.info/race-results/2015_5-Hour_Energy_301/W
+487,487,2015,20,2015-07-26,Indianapolis,43,Kyle Busch,9,Toyota,2.5,P,410,8385365.0,183.464,9,36,131.656,16,https://www.racing-reference.info/race-results/2015_Crown_Royal_Presents_the_Jeff_Kyle_400/W
+488,488,2015,21,2015-08-02,Pocono,43,Matt Kenseth,7,Toyota,2.5,P,400,4558325.0,178.416,8,32,132.159,18,https://www.racing-reference.info/race-results/2015_Windows_10_400/W
+489,489,2015,22,2015-08-09,Watkins Glen,43,Joey Logano,16,Ford,2.45,R,221,4494688.0,127.839,5,16,91.42,8,https://www.racing-reference.info/race-results/2015_Cheez-It_355_at_the_Glen/W
+490,490,2015,23,2015-08-16,Michigan,43,Matt Kenseth,1,Toyota,2.0,P,400,4711858.0,197.488,8,31,143.455,16,https://www.racing-reference.info/race-results/2015_Pure_Michigan_400/W
+491,491,2015,24,2015-08-22,Bristol,43,Joey Logano,5,Ford,0.533,P,267,5775910.0,131.407,8,52,96.891,14,https://www.racing-reference.info/race-results/2015_Irwin_Tools_Night_Race/W
+492,492,2015,25,2015-09-06,Darlington,43,Carl Edwards,13,Toyota,1.366,P,501,5199508.0,178.874,18,89,111.993,24,https://www.racing-reference.info/race-results/2015_Bojangles_Southern_500/W
+493,493,2015,26,2015-09-12,Richmond,43,Matt Kenseth,2,Toyota,0.75,P,300,4660635.0,126.47,6,47,100.353,13,https://www.racing-reference.info/race-results/2015_Federated_Auto_Parts_400/W
+494,494,2015,27,2015-09-20,Chicago,43,Denny Hamlin,29,Toyota,1.5,P,401,5526388.0,,6,28,140.117,17,https://www.racing-reference.info/race-results/2015_MyAFibRisk.com_400/W
+495,495,2015,28,2015-09-27,Loudon,43,Matt Kenseth,13,Toyota,1.058,P,317,4815856.0,137.98,9,41,106.48,16,https://www.racing-reference.info/race-results/2015_Sylvania_300/W
+496,496,2015,29,2015-10-04,Dover,43,Kevin Harvick,15,Chevrolet,1.0,P,400,4705452.0,,8,43,119.87,14,https://www.racing-reference.info/race-results/2015_AAA_400/W
+497,497,2015,30,2015-10-11,Charlotte,43,Joey Logano,3,Ford,1.5,P,501,4801445.0,194.532,9,44,139.76,14,https://www.racing-reference.info/race-results/2015_Bank_of_America_500/W
+498,498,2015,31,2015-10-18,Kansas,43,Joey Logano,14,Ford,1.5,P,404,5576988.0,195.503,7,39,135.732,21,https://www.racing-reference.info/race-results/2015_Hollywood_Casino_400/W
+499,499,2015,32,2015-10-25,Talladega,43,Joey Logano,10,Ford,2.66,P,521,4918533.0,194.5,3,18,167.311,30,https://www.racing-reference.info/race-results/2015_CampingWorld.com_500_%28October%29/W
+500,500,2015,33,2015-11-01,Martinsville,43,Jeff Gordon,5,Chevrolet,0.526,P,263,4660634.0,98.548,18,109,69.643,21,https://www.racing-reference.info/race-results/2015_Goodys_Headache_Relief_Shot_500/W
+501,501,2015,34,2015-11-08,Fort Worth,43,Jimmie Johnson,8,Chevrolet,1.5,P,501,6287434.0,196.929,9,47,137.49,15,https://www.racing-reference.info/race-results/2015_AAA_Texas_400/W
+502,502,2015,35,2015-11-15,Phoenix,43,"Dale Earnhardt, Jr.",3,Chevrolet,1.0,P,219,4660635.0,143.158,2,29,106.512,8,https://www.racing-reference.info/race-results/2015_Quicken_Loans_Race_For_Heroes_500/W
+503,503,2015,36,2015-11-22,Homestead,43,Kyle Busch,3,Toyota,1.5,P,401,4814003.0,176.655,7,30,131.755,18,https://www.racing-reference.info/race-results/2015_Ford_EcoBoost_400/W
+504,504,2016,1,2016-02-21,Daytona,40,Denny Hamlin,11,Toyota,2.5,P,500,,196.314,6,31,157.549,20,https://www.racing-reference.info/race-results/2016_Daytona_500/W
+505,505,2016,2,2016-02-28,Atlanta,39,Jimmie Johnson,19,Chevrolet,1.54,P,508,,191.582,3,13,155.863,28,https://www.racing-reference.info/race-results/2016_Folds_of_Honor_QuikTrip_500/W
+506,506,2016,3,2016-03-06,Las Vegas,39,Brad Keselowski,4,Ford,1.5,P,401,,196.328,6,36,138.17,20,https://www.racing-reference.info/race-results/2016_Kobalt_400/W
+507,507,2016,4,2016-03-13,Phoenix,39,Kevin Harvick,18,Chevrolet,1.0,P,313,,138.387,5,30,113.212,7,https://www.racing-reference.info/race-results/2016_Good_Sam_500/W
+508,508,2016,5,2016-03-20,Fontana,39,Jimmie Johnson,19,Chevrolet,2.0,P,410,,188.482,6,33,137.213,26,https://www.racing-reference.info/race-results/2016_Auto_Club_400/W
+509,509,2016,6,2016-04-03,Martinsville,40,Kyle Busch,7,Toyota,0.526,P,263,,97.043,8,51,80.088,11,https://www.racing-reference.info/race-results/2016_STP_500/W
+510,510,2016,7,2016-04-09,Fort Worth,40,Kyle Busch,15,Toyota,1.5,P,501,,194.609,7,41,138.355,17,https://www.racing-reference.info/race-results/2016_Duck_Commander_500/W
+511,511,2016,8,2016-04-17,Bristol,40,Carl Edwards,1,Toyota,0.533,P,267,,127.997,15,102,81.637,16,https://www.racing-reference.info/race-results/2016_Food_City_500/W
+512,512,2016,9,2016-04-24,Richmond,40,Carl Edwards,4,Toyota,0.75,P,300,,,8,49,97.07,23,https://www.racing-reference.info/race-results/2016_Toyota_Owners_400/W
+513,513,2016,10,2016-05-01,Talladega,40,Brad Keselowski,7,Ford,2.66,P,500,,192.661,10,41,140.046,37,https://www.racing-reference.info/race-results/2016_GEICO_500/W
+514,514,2016,11,2016-05-07,Kansas,40,Kyle Busch,6,Toyota,1.5,P,401,,190.921,6,30,141.909,16,https://www.racing-reference.info/race-results/2016_GoBowling.com_400/W
+515,515,2016,12,2016-05-15,Dover,40,Matt Kenseth,10,Toyota,1.0,P,400,,,12,65,109.348,19,https://www.racing-reference.info/race-results/2016_AAA_400_Drive_For_Autism/W
+516,516,2016,13,2016-05-29,Charlotte,40,"Martin Truex, Jr.",1,Toyota,1.5,P,600,,192.328,4,19,160.655,9,https://www.racing-reference.info/race-results/2016_Coca-Cola_600/W
+517,517,2016,14,2016-06-06,Pocono,40,Kurt Busch,9,Chevrolet,2.5,P,400,,181.726,10,40,125.49,14,https://www.racing-reference.info/race-results/2016_Axalta_We_Paint_Winners_400/W
+518,518,2016,15,2016-06-12,Michigan,40,Joey Logano,1,Ford,2.0,P,400,,199.557,9,46,134.241,14,https://www.racing-reference.info/race-results/2016_FireKeepers_Casino_400/W
+519,519,2016,16,2016-06-26,Sonoma,40,Tony Stewart,10,Chevrolet,1.99,R,219,,95.777,4,10,80.966,12,https://www.racing-reference.info/race-results/2016_Toyota_Save_Mart_350/W
+520,520,2016,17,2016-07-02,Daytona,40,Brad Keselowski,5,Ford,2.5,P,403,,192.955,5,28,150.342,26,https://www.racing-reference.info/race-results/2016_Coke_Zero_400/W
+521,521,2016,18,2016-07-09,Kentucky,40,Brad Keselowski,2,Ford,1.5,P,401,,,11,53,128.58,16,https://www.racing-reference.info/race-results/2016_Quaker_State_400/W
+522,522,2016,19,2016-07-17,Loudon,40,Matt Kenseth,18,Toyota,1.058,P,318,,133.971,7,36,107.416,13,https://www.racing-reference.info/race-results/2016_New_Hampshire_301/W
+523,523,2016,20,2016-07-24,Indianapolis,40,Kyle Busch,1,Toyota,2.5,P,425,,184.634,8,34,128.94,4,https://www.racing-reference.info/race-results/2016_Combat_Wounded_Coalition_400/W
+524,524,2016,21,2016-08-01,Pocono,40,Chris Buescher,22,Ford,2.5,P,345,,179.244,7,31,127.581,19,https://www.racing-reference.info/race-results/2016_Pennsylvania_400/W
+525,525,2016,22,2016-08-07,Watkins Glen,40,Denny Hamlin,6,Toyota,2.45,R,221,,126.562,8,20,89.513,9,https://www.racing-reference.info/race-results/2016_Cheez-It_355_at_the_Glen/W
+526,526,2016,23,2016-08-21,Bristol,40,Kevin Harvick,24,Chevrolet,0.533,P,267,,131.407,9,106,77.968,20,https://www.racing-reference.info/race-results/2016_Bass_Pro_Shops_NRA_Night_Race/W
+527,527,2016,24,2016-08-28,Michigan,40,Kyle Larson,12,Chevrolet,2.0,P,400,,201.698,4,17,162.73,20,https://www.racing-reference.info/race-results/2016_Pure_Michigan_400/W
+528,528,2016,25,2016-09-04,Darlington,40,"Martin Truex, Jr.",8,Toyota,1.366,P,501,,,10,52,126.437,14,https://www.racing-reference.info/race-results/2016_Bojangles_Southern_500/W
+529,529,2016,26,2016-09-10,Richmond,40,Denny Hamlin,1,Toyota,0.75,P,305,,122.344,16,89,85.778,21,https://www.racing-reference.info/race-results/2016_Federated_Auto_Parts_400/W
+530,530,2016,27,2016-09-18,Chicago,40,"Martin Truex, Jr.",6,Toyota,1.5,P,405,,,4,22,145.161,17,https://www.racing-reference.info/race-results/2016_Teenage_Mutant_Ninja_Turtles_400/W
+531,531,2016,28,2016-09-25,Loudon,40,Kevin Harvick,19,Chevrolet,1.058,P,317,,135.453,6,31,109.291,14,https://www.racing-reference.info/race-results/2016_Bad_Boy_Off_Road_300/W
+532,532,2016,29,2016-10-02,Dover,40,"Martin Truex, Jr.",2,Toyota,1.0,P,400,,,4,22,130.969,14,https://www.racing-reference.info/race-results/2016_Citizen_Soldier_400/W
+533,533,2016,30,2016-10-09,Charlotte,40,Jimmie Johnson,11,Chevrolet,1.5,P,501,,196.029,8,51,134.929,17,https://www.racing-reference.info/race-results/2016_Bank_of_America_500/W
+534,534,2016,31,2016-10-16,Kansas,40,Kevin Harvick,11,Chevrolet,1.5,P,401,,192.089,8,38,133.155,18,https://www.racing-reference.info/race-results/2016_Hollywood_Casino_400/W
+535,535,2016,32,2016-10-23,Talladega,40,Joey Logano,16,Ford,2.66,P,511,,193.423,6,25,159.905,31,https://www.racing-reference.info/race-results/2016_Hellmanns_500/W
+536,536,2016,33,2016-10-30,Martinsville,40,Jimmie Johnson,3,Chevrolet,0.526,P,263,,98.206,5,54,78.54,15,https://www.racing-reference.info/race-results/2016_Goodys_Fast_Relief_500/W
+537,537,2016,34,2016-11-06,Fort Worth,40,Carl Edwards,9,Toyota,1.5,P,440,,192.301,8,37,134.541,12,https://www.racing-reference.info/race-results/2016_AAA_Texas_400/W
+538,538,2016,35,2016-11-13,Phoenix,40,Joey Logano,4,Ford,1.0,P,324,,140.521,9,53,102.866,8,https://www.racing-reference.info/race-results/2016_Can-Am_500/W
+539,539,2016,36,2016-11-20,Homestead,40,Jimmie Johnson,14,Chevrolet,1.5,P,402,,177.637,7,33,128.869,20,https://www.racing-reference.info/race-results/2016_Ford_EcoBoost_400/W
+540,540,2017,1,2017-02-26,Daytona,40,Kurt Busch,8,Ford,2.5,P,500,,192.872,8,40,143.187,37,https://www.racing-reference.info/race-results/2017_Daytona_500/W
+541,541,2017,2,2017-03-05,Atlanta,39,Brad Keselowski,5,Ford,1.54,P,501,,190.398,6,32,140.898,9,https://www.racing-reference.info/race-results/2017_Folds_of_Honor_QuikTrip_500/W
+542,542,2017,3,2017-03-12,Las Vegas,39,"Martin Truex, Jr.",2,Toyota,1.5,P,401,,193.68,6,34,136.032,14,https://www.racing-reference.info/race-results/2017_Kobalt_400/W
+543,543,2017,4,2017-03-19,Phoenix,39,Ryan Newman,22,Chevrolet,1.0,P,314,,137.321,8,45,104.271,15,https://www.racing-reference.info/race-results/2017_Camping_World_500/W
+544,544,2017,5,2017-03-26,Fontana,39,Kyle Larson,1,Chevrolet,2.0,P,404,,187.047,7,29,136.359,17,https://www.racing-reference.info/race-results/2017_Auto_Club_400/W
+545,545,2017,6,2017-04-02,Martinsville,38,Brad Keselowski,4,Ford,0.526,P,263,,,14,95,70.139,18,https://www.racing-reference.info/race-results/2017_STP_500/W
+546,546,2017,7,2017-04-09,Fort Worth,40,Jimmie Johnson,24,Chevrolet,1.5,P,501,,198.405,8,35,147.137,16,https://www.racing-reference.info/race-results/2017_Oreilly_Auto_Parts_500/W
+547,547,2017,8,2017-04-24,Bristol,39,Jimmie Johnson,11,Chevrolet,0.533,P,267,,,9,76,86.674,14,https://www.racing-reference.info/race-results/2017_Food_City_500/W
+548,548,2017,9,2017-04-30,Richmond,38,Joey Logano,5,Ford,0.75,P,300,,121.076,9,53,93.685,18,https://www.racing-reference.info/race-results/2017_Toyota_Owners_400/W
+549,549,2017,10,2017-05-07,Talladega,40,"Ricky Stenhouse, Jr.",1,Ford,2.66,P,508,,191.547,8,33,145.669,26,https://www.racing-reference.info/race-results/2017_GEICO_500/W
+550,550,2017,11,2017-05-13,Kansas,40,"Martin Truex, Jr.",3,Toyota,1.5,P,401,,189.6,15,61,117.64,21,https://www.racing-reference.info/race-results/2017_Go_Bowling_400/W
+551,551,2017,12,2017-05-28,Charlotte,40,Austin Dillon,22,Chevrolet,1.5,P,600,,193.424,9,53,138.8,23,https://www.racing-reference.info/race-results/2017_Coca-Cola_600/W
+552,552,2017,13,2017-06-04,Dover,39,Jimmie Johnson,14,Chevrolet,1.0,P,406,,158.954,15,72,104.955,17,https://www.racing-reference.info/race-results/2017_AAA_400_Drive_For_Autism/W
+553,553,2017,14,2017-06-11,Pocono,39,Ryan Blaney,4,Ford,2.5,P,400,,179.151,4,18,142.292,13,https://www.racing-reference.info/race-results/2017_Axalta_Presents_the_Pocono_400/W
+554,554,2017,15,2017-06-18,Michigan,37,Kyle Larson,1,Chevrolet,2.0,P,400,,202.156,8,34,143.369,10,https://www.racing-reference.info/race-results/2017_FireKeepers_Casino_400/W
+555,555,2017,16,2017-06-25,Sonoma,38,Kevin Harvick,12,Ford,1.99,R,219,,95.295,6,12,78.71,13,https://www.racing-reference.info/race-results/2017_Toyota-Save_Mart_350/W
+556,556,2017,17,2017-07-01,Daytona,40,"Ricky Stenhouse, Jr.",6,Ford,2.5,P,408,,190.973,14,51,123.986,33,https://www.racing-reference.info/race-results/2017_Coke_Zero_400/W
+557,557,2017,18,2017-07-08,Kentucky,40,"Martin Truex, Jr.",2,Toyota,1.5,P,411,,190.282,9,39,138.604,9,https://www.racing-reference.info/race-results/2017_Quaker_State_400/W
+558,558,2017,19,2017-07-16,Loudon,39,Denny Hamlin,8,Toyota,1.058,P,318,,133.077,7,34,105.8,11,https://www.racing-reference.info/race-results/2017_Overtons_301/W
+559,559,2017,20,2017-07-23,Indianapolis,40,Kasey Kahne,19,Chevrolet,2.5,P,418,,187.301,14,55,114.384,10,https://www.racing-reference.info/race-results/2017_Brickyard_400/W
+560,560,2017,21,2017-07-30,Pocono,38,Kyle Busch,1,Toyota,2.5,P,400,,179.372,5,21,141.08,16,https://www.racing-reference.info/race-results/2017_Overtons_400/W
+561,561,2017,22,2017-08-06,Watkins Glen,37,"Martin Truex, Jr.",3,Toyota,2.45,R,221,,126.925,3,8,104.132,9,https://www.racing-reference.info/race-results/2017_I_Love_New_York_355_at_the_Glen/W
+562,562,2017,23,2017-08-13,Michigan,39,Kyle Larson,9,Chevrolet,2.0,P,404,,203.097,5,28,150.903,14,https://www.racing-reference.info/race-results/2017_Pure_Michigan_400/W
+563,563,2017,24,2017-08-19,Bristol,40,Kyle Busch,18,Toyota,0.533,P,267,,128.082,8,53,95.969,21,https://www.racing-reference.info/race-results/2017_Bass_Pro_Shops-NRA_Night_Race/W
+564,564,2017,25,2017-09-03,Darlington,40,Denny Hamlin,9,Toyota,1.366,P,501,,177.73,8,38,132.761,20,https://www.racing-reference.info/race-results/2017_Bojangles_Southern_500/W
+565,565,2017,26,2017-09-09,Richmond,39,Kyle Larson,4,Chevrolet,0.75,P,303,,122.421,7,38,99.417,13,https://www.racing-reference.info/race-results/2017_Federated_Auto_Parts_400/W
+566,566,2017,27,2017-09-17,Chicago,40,"Martin Truex, Jr.",3,Toyota,1.5,P,401,,187.963,4,21,145.401,12,https://www.racing-reference.info/race-results/2017_Tales_of_the_Turtles_400/W
+567,567,2017,28,2017-09-24,Loudon,39,Kyle Busch,1,Toyota,1.058,P,317,,135.049,6,32,108.958,6,https://www.racing-reference.info/race-results/2017_ISM_Connect_300/W
+568,568,2017,29,2017-10-01,Dover,40,Kyle Busch,2,Toyota,1.0,P,400,,160.664,4,24,129.171,15,https://www.racing-reference.info/race-results/2017_Delaware_400/W
+569,569,2017,30,2017-10-08,Charlotte,40,"Martin Truex, Jr.",17,Toyota,1.5,P,506,,191.598,10,44,139.128,14,https://www.racing-reference.info/race-results/2017_Bank_of_America_500/W
+570,570,2017,31,2017-10-15,Talladega,40,Brad Keselowski,6,Ford,2.66,P,500,,190.544,11,47,131.677,30,https://www.racing-reference.info/race-results/2017_Alabama_500/W
+571,571,2017,32,2017-10-22,Kansas,40,"Martin Truex, Jr.",1,Toyota,1.5,P,401,,188.029,10,49,125.189,14,https://www.racing-reference.info/race-results/2017_Hollywood_Casino_400/W
+572,572,2017,33,2017-10-29,Martinsville,40,Kyle Busch,14,Toyota,0.526,P,266,,96.504,11,74,74.902,16,https://www.racing-reference.info/race-results/2017_First_Data_500/W
+573,573,2017,34,2017-11-05,Fort Worth,40,Kevin Harvick,3,Ford,1.5,P,501,,200.915,8,40,143.234,27,https://www.racing-reference.info/race-results/2017_AAA_Texas_500/W
+574,574,2017,35,2017-11-12,Phoenix,40,Matt Kenseth,7,Toyota,1.0,P,312,,137.942,7,41,105.534,9,https://www.racing-reference.info/race-results/2017_Can-Am_500/W
+575,575,2017,36,2017-11-19,Homestead,39,"Martin Truex, Jr.",2,Toyota,1.5,P,401,,173.98,5,26,131.9,13,https://www.racing-reference.info/race-results/2017_Ford_EcoBoost_400/W
+576,576,2018,1,2018-02-18,Daytona,40,Austin Dillon,14,Chevrolet,2.5,P,518,,195.644,8,37,150.545,24,https://www.racing-reference.info/race-results/2018_Daytona_500/W
+577,577,2018,2,2018-02-25,Atlanta,36,Kevin Harvick,3,Ford,1.54,P,501,,184.652,5,28,143.068,24,https://www.racing-reference.info/race-results/2018_Folds_of_Honor_QuikTrip_500/W
+578,578,2018,3,2018-03-04,Las Vegas,37,Kevin Harvick,2,Ford,1.5,P,401,,191.489,4,29,141.756,11,https://www.racing-reference.info/race-results/2018_Pennzoil_400_presented_by_Jiffy_Lube/W
+579,579,2018,4,2018-03-11,Phoenix,37,Kevin Harvick,10,Ford,1.0,P,312,,136.945,6,36,108.073,15,https://www.racing-reference.info/race-results/2018_Ticket_Guardian_500/W
+580,580,2018,5,2018-03-18,Fontana,37,"Martin Truex, Jr.",1,Toyota,2.0,P,400,,186.567,5,21,147.526,16,https://www.racing-reference.info/race-results/2018_Auto_Club_400/W
+581,581,2018,6,2018-03-26,Martinsville,38,Clint Bowyer,9,Ford,0.526,P,263,,,4,33,81.663,11,https://www.racing-reference.info/race-results/2018_STP_500/W
+582,582,2018,7,2018-04-08,Fort Worth,37,Kyle Busch,8,Toyota,1.5,P,501,,197.368,8,48,141.714,16,https://www.racing-reference.info/race-results/2018_OReilly_Auto_Parts_500/W
+583,583,2018,8,2018-04-16,Bristol,39,Kyle Busch,1,Toyota,0.533,P,267,,128.822,13,114,77.465,18,https://www.racing-reference.info/race-results/2018_Food_City_500/W
+584,584,2018,9,2018-04-21,Richmond,38,Kyle Busch,32,Toyota,0.75,P,302,,123.859,6,46,96.215,16,https://www.racing-reference.info/race-results/2018_Toyota_Owners_400/W
+585,585,2018,10,2018-04-29,Talladega,40,Joey Logano,9,Ford,2.66,P,500,,194.448,6,29,152.489,25,https://www.racing-reference.info/race-results/2018_GEICO_500/W
+586,586,2018,11,2018-05-06,Dover,38,Kevin Harvick,2,Ford,1.0,P,400,,158.103,8,48,115.044,17,https://www.racing-reference.info/race-results/2018_AAA_400_Drive_for_Autism/W
+587,587,2018,12,2018-05-12,Kansas,38,Kevin Harvick,1,Ford,1.5,P,401,,188.811,6,31,128.395,13,https://www.racing-reference.info/race-results/2018_KC_Masterpiece_400/W
+588,588,2018,13,2018-05-27,Charlotte,40,Kyle Busch,1,Toyota,1.5,P,600,,191.836,11,54,136.692,9,https://www.racing-reference.info/race-results/2018_Coca-Cola_600/W
+589,589,2018,14,2018-06-03,Pocono,38,"Martin Truex, Jr.",4,Toyota,2.5,P,400,,176.897,6,23,139.535,11,https://www.racing-reference.info/race-results/2018_Pocono_400/W
+590,590,2018,15,2018-06-10,Michigan,39,Clint Bowyer,12,Ford,2.0,P,266,,203.361,8,30,132.723,9,https://www.racing-reference.info/race-results/2018_FireKeepers_Casino_400/W
+591,591,2018,16,2018-06-24,Sonoma,38,"Martin Truex, Jr.",2,Toyota,1.99,R,219,,94.597,3,8,82.882,11,https://www.racing-reference.info/race-results/2018_Toyota-Save_Mart_350/W
+592,592,2018,17,2018-07-01,Chicago,39,Kyle Busch,16,Toyota,1.5,P,401,,180.012,5,23,140.636,24,https://www.racing-reference.info/race-results/2018_Overtons_400/W
+593,593,2018,18,2018-07-07,Daytona,40,Erik Jones,29,Toyota,2.5,P,420,,194.045,10,46,130.435,25,https://www.racing-reference.info/race-results/2018_Coke_Zero_Sugar_400/W
+594,594,2018,19,2018-07-14,Kentucky,39,"Martin Truex, Jr.",1,Toyota,1.5,P,401,,188.89,4,22,150.454,14,https://www.racing-reference.info/race-results/2018_Quaker_State_400_Presented_by_Walmart/W
+595,595,2018,20,2018-07-22,Loudon,37,Kevin Harvick,14,Ford,1.058,P,318,,133.591,7,31,110.49,10,https://www.racing-reference.info/race-results/2018_Foxwoods_Resort_Casino_301/W
+596,596,2018,21,2018-07-29,Pocono,40,Kyle Busch,28,Toyota,2.5,P,410,,176.988,7,29,132.46,13,https://www.racing-reference.info/race-results/2018_Gander_Outdoors_400/W
+597,597,2018,22,2018-08-05,Watkins Glen,37,Chase Elliott,3,Chevrolet,2.45,R,221,,125.534,4,11,98.928,9,https://www.racing-reference.info/race-results/2018_Go_Bowling_at_the_Glen/W
+598,598,2018,23,2018-08-12,Michigan,40,Kevin Harvick,3,Ford,2.0,P,400,,202.794,8,37,140.474,15,https://www.racing-reference.info/race-results/2018_Consumers_Energy_400/W
+599,599,2018,24,2018-08-18,Bristol,40,Kurt Busch,9,Ford,0.533,P,267,,127.792,9,70,89.538,19,https://www.racing-reference.info/race-results/2018_Bass_Pro_Shops-NRA_Night_Race/W
+600,600,2018,25,2018-09-02,Darlington,40,Brad Keselowski,13,Ford,1.366,P,501,,173.571,6,35,131.408,7,https://www.racing-reference.info/race-results/2018_Bojangles_Southern_500/W
+601,601,2018,26,2018-09-10,Indianapolis,40,Brad Keselowski,6,Ford,2.5,P,400,,,10,39,128.629,14,https://www.racing-reference.info/race-results/2018_Big_Machine_Vodka_400_at_the_Brickyard/W
+602,602,2018,27,2018-09-16,Las Vegas,40,Brad Keselowski,13,Ford,1.5,P,408,,188.121,12,59,111.849,23,https://www.racing-reference.info/race-results/2018_South_Point_400/W
+603,603,2018,28,2018-09-22,Richmond,40,Kyle Busch,11,Toyota,0.75,P,300,,121.88,3,23,103.152,16,https://www.racing-reference.info/race-results/2018_Federated_Auto_Parts_400/W
+604,604,2018,29,2018-09-30,Charlotte (Road),40,Ryan Blaney,9,Ford,2.28,R,249,,106.868,8,16,82.125,10,https://www.racing-reference.info/race-results/2018_Bank_of_America_Roval_400/W
+605,605,2018,30,2018-10-07,Dover,39,Chase Elliott,9,Chevrolet,1.0,P,404,,,5,31,122.404,15,https://www.racing-reference.info/race-results/2018_Gander_Outdoors_400_%28October%29/W
+606,606,2018,31,2018-10-14,Talladega,40,Aric Almirola,4,Ford,2.66,P,513,,195.804,8,32,153.707,15,https://www.racing-reference.info/race-results/2018_1000Bulbs.com_500/W
+607,607,2018,32,2018-10-21,Kansas,40,Chase Elliott,13,Chevrolet,1.5,P,401,,191.646,3,17,152.057,11,https://www.racing-reference.info/race-results/2018_Hollywood_Casino_400/W
+608,608,2018,33,2018-10-28,Martinsville,40,Joey Logano,10,Ford,0.526,P,263,,96.254,8,68,75.31,11,https://www.racing-reference.info/race-results/2018_First_Data_500/W
+609,609,2018,34,2018-11-04,Fort Worth,40,Kevin Harvick,3,Ford,1.5,P,506,,200.505,8,37,150.558,16,https://www.racing-reference.info/race-results/2018_AAA_Texas_500/W
+610,610,2018,35,2018-11-11,Phoenix,39,Kyle Busch,6,Toyota,1.0,P,312,,139.34,10,61,98.354,15,https://www.racing-reference.info/race-results/2018_Can-Am_500/W
+611,611,2018,36,2018-11-18,Homestead,39,Joey Logano,5,Ford,1.5,P,401,,173.863,5,26,133.056,22,https://www.racing-reference.info/race-results/2018_Ford_EcoBoost_400/W
+612,612,2019,1,2019-02-17,Daytona,40,Denny Hamlin,10,Toyota,2.5,P,518,,194.305,12,47,137.44,15,https://www.racing-reference.info/race-results/2019_Daytona_500/W
+613,613,2019,2,2019-02-24,Atlanta,37,Brad Keselowski,19,Ford,1.54,P,501,,181.473,5,30,142.626,26,https://www.racing-reference.info/race-results/2019_Folds_of_Honor_QuikTrip_500/W
+614,614,2019,3,2019-03-03,Las Vegas,38,Joey Logano,10,Ford,1.5,P,401,,180.517,2,12,154.849,19,https://www.racing-reference.info/race-results/2019_Pennzoil_400_Presented_by_Jiffy_Lube/W
+615,615,2019,4,2019-03-10,Phoenix,36,Kyle Busch,4,Toyota,1.0,P,312,,141.287,9,57,101.693,17,https://www.racing-reference.info/race-results/2019_Ticket_Guardian_500/W
+616,616,2019,5,2019-03-17,Fontana,38,Kyle Busch,4,Toyota,2.0,P,400,,180.081,4,22,143.113,18,https://www.racing-reference.info/race-results/2019_Auto_Club_400/W
+617,617,2019,6,2019-03-24,Martinsville,36,Brad Keselowski,3,Ford,0.526,P,263,,97.83,7,56,78.158,3,https://www.racing-reference.info/race-results/2019_STP_500/W
+618,618,2019,7,2019-03-31,Fort Worth,39,Denny Hamlin,6,Toyota,1.5,P,501,,188.89,5,29,153.224,26,https://www.racing-reference.info/race-results/2019_OReilly_Auto_Parts_500/W
+619,619,2019,8,2019-04-07,Bristol,37,Kyle Busch,17,Toyota,0.533,P,267,,131.713,11,77,90.527,21,https://www.racing-reference.info/race-results/2019_Food_City_500/W
+620,620,2019,9,2019-04-13,Richmond,37,"Martin Truex, Jr.",5,Toyota,0.75,P,300,,124.298,5,41,99.852,8,https://www.racing-reference.info/race-results/2019_Toyota_Owners_400/W
+621,621,2019,10,2019-04-28,Talladega,40,Chase Elliott,11,Chevrolet,2.66,P,500,,192.544,6,21,161.331,38,https://www.racing-reference.info/race-results/2019_GEICO_500/W
+622,622,2019,11,2019-05-06,Dover,37,"Martin Truex, Jr.",13,Toyota,1.0,P,400,,165.96,6,31,127.242,15,https://www.racing-reference.info/race-results/2019_Gander_RV_400/W
+623,623,2019,12,2019-05-11,Kansas,40,Brad Keselowski,4,Ford,1.5,P,407,,179.217,7,41,131.023,23,https://www.racing-reference.info/race-results/2019_Digital_Ally_400/W
+624,624,2019,13,2019-05-26,Charlotte,40,"Martin Truex, Jr.",14,Toyota,1.5,P,600,,183.424,16,80,124.074,30,https://www.racing-reference.info/race-results/2019_Coca-Cola_600/W
+625,625,2019,14,2019-06-02,Pocono,37,Kyle Busch,2,Toyota,2.5,P,400,,173.494,8,28,134.718,13,https://www.racing-reference.info/race-results/2019_Pocono_400/W
+626,626,2019,15,2019-06-10,Michigan,36,Joey Logano,1,Ford,2.0,P,406,,187.139,7,35,140.945,20,https://www.racing-reference.info/race-results/2019_FireKeepers_Casino_400/W
+627,627,2019,16,2019-06-23,Sonoma,38,"Martin Truex, Jr.",8,Toyota,2.52,R,227,,95.712,2,6,83.922,7,https://www.racing-reference.info/race-results/2019_Toyota-Save_Mart_350/W
+628,628,2019,17,2019-06-30,Chicago,38,Alex Bowman,8,Chevrolet,1.5,P,401,,176.263,5,25,140.677,23,https://www.racing-reference.info/race-results/2019_Camping_World_400/W
+629,629,2019,18,2019-07-07,Daytona,40,Justin Haley,34,Chevrolet,2.5,P,318,,,6,25,141.146,24,https://www.racing-reference.info/race-results/2019_Coke_Zero_Sugar_400/W
+630,630,2019,19,2019-07-13,Kentucky,36,Kurt Busch,4,Chevrolet,1.5,P,404,,184.59,7,35,141.07,15,https://www.racing-reference.info/race-results/2019_Quaker_State_400/W
+631,631,2019,20,2019-07-21,Loudon,37,Kevin Harvick,14,Ford,1.058,P,318,,136.384,9,48,104.062,14,https://www.racing-reference.info/race-results/2019_Foxwoods_Resort_Casino_301/W
+632,632,2019,21,2019-07-28,Pocono,38,Denny Hamlin,9,Toyota,2.5,P,408,,174.058,7,24,133.804,9,https://www.racing-reference.info/race-results/2019_Gander_RV_400_%28July%29/W
+633,633,2019,22,2019-08-04,Watkins Glen,37,Chase Elliott,1,Chevrolet,2.45,R,221,,127.297,4,13,98.523,5,https://www.racing-reference.info/race-results/2019_Go_Bowling_at_the_Glen/W
+634,634,2019,23,2019-08-11,Michigan,38,Kevin Harvick,2,Ford,2.0,P,400,,190.471,6,24,149.084,19,https://www.racing-reference.info/race-results/2019_Consumers_Energy_400/W
+635,635,2019,24,2019-08-17,Bristol,39,Denny Hamlin,1,Toyota,0.533,P,267,,129.23,8,61,94.531,23,https://www.racing-reference.info/race-results/2019_Bass_Pro_Shops-NRA_Night_Race/W
+636,636,2019,25,2019-09-01,Darlington,39,Erik Jones,15,Toyota,1.366,P,501,,172.487,7,35,133.825,13,https://www.racing-reference.info/race-results/2019_Bojangles_Southern_500/W
+637,637,2019,26,2019-09-08,Indianapolis,40,Kevin Harvick,1,Ford,2.5,P,400,,185.766,9,48,119.443,14,https://www.racing-reference.info/race-results/2019_Big_Machine_Vodka_400_at_the_Brickyard/W
+638,638,2019,27,2019-09-15,Las Vegas,39,"Martin Truex, Jr.",24,Toyota,1.5,P,401,,178.926,4,22,142.555,24,https://www.racing-reference.info/race-results/2019_South_Point_400/W
+639,639,2019,28,2019-09-21,Richmond,38,"Martin Truex, Jr.",8,Toyota,0.75,P,300,,127.185,5,32,101.437,6,https://www.racing-reference.info/race-results/2019_Federated_Auto_Parts_400/W
+640,640,2019,29,2019-09-29,Charlotte (Road),40,Chase Elliott,19,Chevrolet,2.28,R,249,,103.198,10,23,75.499,13,https://www.racing-reference.info/race-results/2019_Bank_of_America_Roval_400/W
+641,641,2019,30,2019-10-06,Dover,38,Kyle Larson,2,Chevrolet,1.0,P,400,,166.984,3,17,135.734,14,https://www.racing-reference.info/race-results/2019_Drydene_400/W
+642,642,2019,31,2019-10-14,Talladega,40,Ryan Blaney,9,Ford,2.66,P,500,,192.707,9,43,136.644,46,https://www.racing-reference.info/race-results/2019_1000bulbs.com_500/W
+643,643,2019,32,2019-10-20,Kansas,40,Denny Hamlin,23,Toyota,1.5,P,416,,178.047,7,32,136.491,15,https://www.racing-reference.info/race-results/2019_Hollywood_Casino_400/W
+644,644,2019,33,2019-10-27,Martinsville,38,"Martin Truex, Jr.",3,Toyota,0.526,P,263,,97.84,11,69,75.448,3,https://www.racing-reference.info/race-results/2019_First_Data_500/W
+645,645,2019,34,2019-11-03,Fort Worth,40,Kevin Harvick,1,Ford,1.5,P,501,,189.707,11,56,133.759,26,https://www.racing-reference.info/race-results/2019_AAA_Texas_500/W
+646,646,2019,35,2019-11-10,Phoenix,39,Denny Hamlin,3,Toyota,1.0,P,312,,140.116,5,32,111.429,8,https://www.racing-reference.info/race-results/2019_Bluegreen_Vacations_500/W
+647,647,2019,36,2019-11-17,Homestead,40,Kyle Busch,4,Toyota,1.5,P,401,,,3,15,142.654,14,https://www.racing-reference.info/race-results/2019_Ford_EcoBoost_400/W
